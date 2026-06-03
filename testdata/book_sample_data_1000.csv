@@ -1,0 +1,1001 @@
+﻿title,author,publisher,isbn,category,price,stock,publishDate,description
+Vue前端开发：进阶篇,郭晨,北京大学出版社,9781372400018,Programming,137.01,35,2010-03-14,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+数据库系统原理：案例教程,朱雅雯,中信出版社,9787951600022,Database,136.02,26,2015-10-20,内容系统，案例丰富，适合作为教材或参考书。
+Digital Logic Basics：基础篇,Cay Horstmann,Wiley,9781690500032,Computer Science,125.24,98,2008-10-29,"Suitable for students, teachers, and general readers."
+TCP/IP详解（第3版）,朱雅雯,译林出版社,9780275800048,Network,35.15,57,2015-02-18,兼顾理论深度与实际应用，适合项目实践参考。
+操作系统原理：案例教程,高云,商务印书馆,9780267100057,Operating System,117.24,90,2008-05-17,围绕核心概念展开，配有练习与拓展阅读。
+Artificial Intelligence Basics：进阶篇,Sarah Davis,Penguin Books,9781829500063,Artificial Intelligence,78.92,3,2008-03-05,Covers fundamental concepts and real-world applications.
+数据分析方法（第2版）,何嘉宁,人民邮电出版社,9781277100075,Data Science,58.62,56,2015-08-23,结合真实案例，强调知识理解与实际操作。
+敏捷开发方法：项目化教程,朱雅雯,中信出版社,9787508600086,Software Engineering,112.65,59,2015-05-19,围绕核心概念展开，配有练习与拓展阅读。
+Cybersecurity Fundamentals：实践版,Martin Fowler,Oxford University Press,9787643000093,Cybersecurity,44.23,67,2010-03-15,Useful as a reference book for academic and project work.
+线性代数,陈思远,科学出版社,9780525800101,Mathematics,117.69,107,1998-12-23,内容系统，案例丰富，适合作为教材或参考书。
+大学物理：实践版,严蔚敏,中信出版社,9780159400111,Physics,117.78,60,2005-02-03,结构清晰，语言通俗，可用于自学和课堂教学。
+Materials Chemistry：进阶篇,Laura Miller,Pearson Education,9781917000123,Chemistry,150.71,94,2007-03-08,Provides structured explanations and practical case studies.
+生命科学概论（第3版）,高云,中国轻工业出版社,9787896600132,Biology,124.45,69,2005-03-08,内容系统，案例丰富，适合作为教材或参考书。
+临床医学概论：进阶篇,黄静,作家出版社,9787443400147,Medicine,171.1,55,2017-06-22,适合入门学习与课程实验使用。
+International Trade：进阶篇,Emily Johnson,Random House,9780754700159,Economics,96.86,64,2015-01-11,A concise guide for beginners and intermediate learners.
+组织行为学：基础篇,刘洋,人民邮电出版社,9780686600169,Management,143.24,89,2021-05-19,结合真实案例，强调知识理解与实际操作。
+金融学导论：基础篇,高云,北京大学出版社,9780450200175,Finance,130.85,74,2002-12-17,围绕核心概念展开，配有练习与拓展阅读。
+Brand Strategy Handbook,Cay Horstmann,Oxford University Press,9780220600181,Marketing,40.45,50,1999-08-07,Designed for classroom learning and self-study.
+认知心理学：进阶篇,唐朔飞,中国人民大学出版社,9780746700198,Psychology,106.71,23,2020-07-12,兼顾理论深度与实际应用，适合项目实践参考。
+教育心理学：案例教程,陈思远,译林出版社,9787655300204,Education,156.15,60,2003-10-10,内容系统，案例丰富，适合作为教材或参考书。
+Historical Research,Craig Walls,Springer,9787287900216,History,149.84,53,2022-09-07,"Combines theory, examples, and review questions."
+西方哲学史（第2版）,周志华,商务印书馆,9780288600222,Philosophy,154.94,94,2016-01-18,内容系统，案例丰富，适合作为教材或参考书。
+城市社会学（第3版）,霍春阳,商务印书馆,9787689700230,Sociology,114.58,11,2014-01-25,适合入门学习与课程实验使用。
+Intellectual Property Law：实践版,Jennifer Anderson,Routledge,9780330800242,Law,156.01,28,2021-01-12,Designed for classroom learning and self-study.
+行政管理学：案例教程,孙立新,商务印书馆,9780280800255,Politics,67.73,16,2018-11-19,适合入门学习与课程实验使用。
+外国文学史：理论与实践,孙立新,人民邮电出版社,9787602200267,Literature,45.56,39,2007-06-29,适合入门学习与课程实验使用。
+Classical Verse：实践版,Cay Horstmann,Wiley,9781792800276,Poetry,30.65,34,2011-08-08,A practical introduction with clear examples and exercises.
+艺术概论：从入门到精通,郭晨,译林出版社,9780697000286,Art,170.85,1,2006-06-03,内容系统，案例丰富，适合作为教材或参考书。
+乐理基础：基础篇,李华,中华书局,9781949500295,Music,83.87,111,2024-03-13,适合大学生、教师及相关从业者阅读。
+User Experience Design,Martin Fowler,Elsevier,9787227500308,Design,124.74,106,2015-11-16,Covers fundamental concepts and real-world applications.
+中外建筑史：理论与实践,胡志强,人民文学出版社,9781396400315,Architecture,179.88,26,2001-04-25,兼顾理论深度与实际应用，适合项目实践参考。
+中国自助游（第2版）,张海藩,化学工业出版社,9780569500326,Travel,77.09,105,2015-04-24,结合真实案例，强调知识理解与实际操作。
+Physical Geography：案例教程,Stuart Russell,Cambridge University Press,9781540500335,Geography,85.58,71,2017-11-25,Designed for classroom learning and self-study.
+跨文化交际：理论与实践,黄静,作家出版社,9780443700347,Language,79.73,20,2026-01-14,兼顾理论深度与实际应用，适合项目实践参考。
+商务英语：进阶篇,谢希仁,译林出版社,9781942500353,English Learning,55.38,46,2007-09-29,结合真实案例，强调知识理解与实际操作。
+Lu Xun Studies：案例教程,John Smith,Elsevier,9787325900369,Chinese Literature,68.72,1,2022-03-16,"Combines theory, examples, and review questions."
+儿童故事集：实践版,朱雅雯,商务印书馆,9780684400372,Children,47.42,91,1995-06-02,适合入门学习与课程实验使用。
+机器人纪元（第3版）,梁博文,人民文学出版社,9780432200384,Science Fiction,93.28,47,2003-12-05,适合大学生、教师及相关从业者阅读。
+The Midnight Case（第2版）,Michael Brown,Penguin Books,9780578500393,Mystery,106.37,109,2013-05-15,Useful as a reference book for academic and project work.
+名人传记：理论与实践,何嘉宁,机械工业出版社,9780789300409,Biography,152.37,44,2024-03-02,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+自律与成长：项目化教程,郑文博,化学工业出版社,9780698000414,Self-Help,63.97,33,2001-07-21,适合大学生、教师及相关从业者阅读。
+Healthy Living Handbook,Laura Miller,Wiley,9787905100424,Health,42.06,37,2024-01-25,Useful as a reference book for academic and project work.
+足球战术分析：实践版,何嘉宁,作家出版社,9781633800434,Sports,154.21,46,2000-12-05,围绕核心概念展开，配有练习与拓展阅读。
+中式烹饪技巧：从入门到精通,郭晨,中华书局,9780308000445,Cooking,52.58,39,2025-03-12,围绕核心概念展开，配有练习与拓展阅读。
+Green Living（第3版）,Nancy White,Packt Publishing,9780646400457,Environment,76.27,77,2004-02-25,Designed for classroom learning and self-study.
+Java程序设计：项目化教程,张伟,电子工业出版社,9780186300460,Programming,149.75,28,2019-07-27,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+SQL查询基础：项目化教程,王晓明,人民文学出版社,9787108200471,Database,43.87,50,2012-05-24,结合真实案例，强调知识理解与实际操作。
+Algorithms and Structures Handbook,James Clark,No Starch Press,9781890900489,Computer Science,145.78,103,2015-05-27,"Suitable for students, teachers, and general readers."
+网络工程实践（第2版）,朱雅雯,中信出版社,9787561000496,Network,57.56,103,2022-12-06,适合大学生、教师及相关从业者阅读。
+现代操作系统：从入门到精通,李华,浙江教育出版社,9780753800508,Operating System,119.75,101,2007-12-03,结合真实案例，强调知识理解与实际操作。
+Machine Learning Guide（第3版）,Cay Horstmann,Random House,9787780400510,Artificial Intelligence,195.14,88,2012-09-15,"Suitable for students, teachers, and general readers."
+统计学习入门（第2版）,高云,复旦大学出版社,9787766900522,Data Science,53.63,90,2008-12-12,适合入门学习与课程实验使用。
+需求分析实践：进阶篇,梁博文,中华书局,9781599600536,Software Engineering,110.63,5,2026-02-04,围绕核心概念展开，配有练习与拓展阅读。
+Applied Cryptography,Robert C. Martin,Pearson Education,9781763400542,Cybersecurity,124.03,13,2011-12-30,Designed for classroom learning and self-study.
+线性代数：从入门到精通,马天宇,复旦大学出版社,9781124500553,Mathematics,131.99,60,1996-08-31,结构清晰，语言通俗，可用于自学和课堂教学。
+量子力学导论：实践版,何嘉宁,人民邮电出版社,9780616300565,Physics,105.31,43,2019-12-08,围绕核心概念展开，配有练习与拓展阅读。
+Analytical Chemistry：实践版,Thomas Moore,Pearson Education,9787816800574,Chemistry,59.24,119,2022-02-04,Designed for classroom learning and self-study.
+遗传学导论：基础篇,周子涵,中华书局,9780855700584,Biology,152.48,104,2012-02-11,适合入门学习与课程实验使用。
+医学基础：项目化教程,刘洋,中国轻工业出版社,9780974000596,Medicine,190.5,97,1996-10-05,结构清晰，语言通俗，可用于自学和课堂教学。
+Macroeconomics：案例教程,Laura Miller,Random House,9780388100608,Economics,49.84,101,2006-06-30,Designed for classroom learning and self-study.
+人力资源管理,王晓明,人民邮电出版社,9780719700613,Management,69.23,29,2006-04-24,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+投资学基础：进阶篇,周子涵,北京大学出版社,9787220700620,Finance,132.77,110,2024-10-28,适合大学生、教师及相关从业者阅读。
+Marketing Management Handbook,Ben Forta,Springer,9781225300632,Marketing,111.41,36,1998-09-12,Useful as a reference book for academic and project work.
+积极心理学：进阶篇,赵明轩,北京大学出版社,9781398800649,Psychology,85.65,104,2023-02-06,结构清晰，语言通俗，可用于自学和课堂教学。
+现代教育技术：案例教程,郭晨,电子工业出版社,9780286000659,Education,89.82,45,2001-03-12,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+World History Workshop,Nancy White,Penguin Books,9781784200664,History,122.07,96,2022-04-11,A practical introduction with clear examples and exercises.
+中国哲学简史：进阶篇,陈思远,译林出版社,9787562500674,Philosophy,95.2,29,2026-01-15,兼顾理论深度与实际应用，适合项目实践参考。
+社会学概论：从入门到精通,马天宇,北京大学出版社,9787406800687,Sociology,81.4,81,2013-06-19,围绕核心概念展开，配有练习与拓展阅读。
+Economic Law（第2版）,Robert Taylor,Penguin Books,9780657100698,Law,118.28,100,1999-06-28,Covers fundamental concepts and real-world applications.
+比较政治学,陈思远,人民文学出版社,9780291200709,Politics,136.09,82,2021-02-11,结合真实案例，强调知识理解与实际操作。
+短篇小说选读（第3版）,张伟,中国人民大学出版社,9781392700716,Literature,156.21,120,2023-10-22,结合真实案例，强调知识理解与实际操作。
+Writing Poetry（第3版）,Emily Johnson,Pearson Education,9780946300723,Poetry,60.12,115,1997-01-14,Useful as a reference book for academic and project work.
+博物馆艺术导览：项目化教程,刘洋,电子工业出版社,9781135600730,Art,112.56,120,2023-08-25,适合入门学习与课程实验使用。
+西方音乐史：进阶篇,朱雅雯,电子工业出版社,9781528400749,Music,115.44,28,2011-01-26,内容系统，案例丰富，适合作为教材或参考书。
+Interaction Design Guide,David Wilson,Cambridge University Press,9787922300753,Design,78.07,103,2008-10-31,"Combines theory, examples, and review questions."
+城市规划导论：实践版,张海藩,中信出版社,9781753600761,Architecture,183.6,96,2010-07-25,结合真实案例，强调知识理解与实际操作。
+背包旅行手册：案例教程,严蔚敏,上海译文出版社,9787684500774,Travel,25.22,76,1997-02-14,兼顾理论深度与实际应用，适合项目实践参考。
+Human Geography,Jennifer Anderson,O'Reilly Media,9787345800786,Geography,89.47,12,2006-06-20,Covers fundamental concepts and real-world applications.
+现代汉语：实践版,陈思远,法律出版社,9781532700798,Language,134.24,74,2001-05-02,结构清晰，语言通俗，可用于自学和课堂教学。
+大学英语阅读：从入门到精通,周子涵,中国轻工业出版社,9781447300809,English Learning,70.56,82,1995-02-16,结构清晰，语言通俗，可用于自学和课堂教学。
+History of Chinese Fiction：实践版,Laura Miller,CRC Press,9781956900811,Chinese Literature,107.73,8,2021-02-10,Useful as a reference book for academic and project work.
+童话故事（第3版）,高云,上海译文出版社,9781387600823,Children,46.6,94,2025-05-28,围绕核心概念展开，配有练习与拓展阅读。
+银河边境,马天宇,上海译文出版社,9780744500837,Science Fiction,115.63,5,2020-11-04,兼顾理论深度与实际应用，适合项目实践参考。
+Truth in the Fog（第2版）,Eric Matthes,Oxford University Press,9780604000842,Mystery,109.16,54,2021-04-29,A concise guide for beginners and intermediate learners.
+企业家成长史（第2版）,周志华,作家出版社,9780669800852,Biography,106.54,49,2006-07-21,适合大学生、教师及相关从业者阅读。
+时间管理：进阶篇,马天宇,上海译文出版社,9787940000864,Self-Help,93.12,47,2022-05-19,围绕核心概念展开，配有练习与拓展阅读。
+Sleep Management,Stuart Russell,Wiley,9780704800878,Health,109.13,15,2015-08-08,A concise guide for beginners and intermediate learners.
+足球战术分析：进阶篇,梁博文,人民文学出版社,9787658700889,Sports,116.26,4,2018-12-31,兼顾理论深度与实际应用，适合项目实践参考。
+家常菜谱：从入门到精通,李华,中国轻工业出版社,9780548200896,Cooking,48.21,42,2013-12-27,兼顾理论深度与实际应用，适合项目实践参考。
+Sustainable Development：基础篇,Cay Horstmann,O'Reilly Media,9780714300900,Environment,81.67,112,2014-07-22,A concise guide for beginners and intermediate learners.
+Vue前端开发：从入门到精通,刘遄,人民文学出版社,9780897100915,Programming,58.77,0,2000-07-07,结合真实案例，强调知识理解与实际操作。
+数据仓库技术,梁博文,清华大学出版社,9781491900925,Database,103.25,33,2013-02-26,结合真实案例，强调知识理解与实际操作。
+Theory of Computing：实践版,Martin Fowler,Elsevier,9780856100932,Computer Science,72.58,107,1999-11-30,Provides structured explanations and practical case studies.
+网络工程实践：案例教程,胡志强,电子工业出版社,9787502100940,Network,128.02,35,2008-11-26,围绕核心概念展开，配有练习与拓展阅读。
+进程与线程（第3版）,刘洋,中国人民大学出版社,9787690500959,Operating System,118.0,84,1995-02-12,适合入门学习与课程实验使用。
+Natural Language Processing in Practice,James Clark,Cambridge University Press,9780262000963,Artificial Intelligence,135.69,113,2023-09-06,A practical introduction with clear examples and exercises.
+数据分析方法（第3版）,刘遄,中国人民大学出版社,9780525500971,Data Science,44.65,56,2015-01-22,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+系统设计案例（第3版）,罗佳,中华书局,9780581200983,Software Engineering,126.86,37,1995-12-28,适合大学生、教师及相关从业者阅读。
+Applied Cryptography Handbook,Jennifer Anderson,Wiley,9780989000994,Cybersecurity,75.22,62,1998-03-21,A concise guide for beginners and intermediate learners.
+微积分教程：理论与实践,张海藩,电子工业出版社,9780346401006,Mathematics,132.4,67,2008-08-12,适合大学生、教师及相关从业者阅读。
+大学物理：项目化教程,陈思远,复旦大学出版社,9781779801012,Physics,43.39,32,1997-07-12,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+General Chemistry（第2版）,Michael Brown,Wiley,9787229701024,Chemistry,70.74,30,2025-01-28,"Suitable for students, teachers, and general readers."
+分子生物学,罗佳,复旦大学出版社,9787361601039,Biology,104.06,60,1995-09-14,适合入门学习与课程实验使用。
+护理学基础：基础篇,王晓明,商务印书馆,9787319201045,Medicine,169.07,110,2013-03-16,内容系统，案例丰富，适合作为教材或参考书。
+Development Economics in Practice,Daniel Martin,CRC Press,9787792401055,Economics,122.57,12,2001-03-20,"Suitable for students, teachers, and general readers."
+管理学基础（第3版）,林海峰,清华大学出版社,9781581701067,Management,89.15,31,2015-11-07,适合入门学习与课程实验使用。
+公司理财：基础篇,谢希仁,电子工业出版社,9781782901075,Finance,119.41,82,2014-12-19,兼顾理论深度与实际应用，适合项目实践参考。
+Advertising Planning（第3版）,Peter Norvig,Penguin Books,9780248501088,Marketing,80.11,68,2013-10-22,Provides structured explanations and practical case studies.
+发展心理学：实践版,王珊,商务印书馆,9780643901094,Psychology,69.07,7,2000-12-16,结合真实案例，强调知识理解与实际操作。
+现代教育技术：理论与实践,刘洋,人民文学出版社,9781451801101,Education,96.1,116,2009-11-06,内容系统，案例丰富，适合作为教材或参考书。
+Historical Research Essentials,Peter Norvig,HarperCollins,9787596901119,History,44.1,11,2016-11-02,"Suitable for students, teachers, and general readers."
+西方哲学史,严蔚敏,译林出版社,9787754501120,Philosophy,51.32,8,2008-04-06,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+社会学概论：进阶篇,吴雨桐,高等教育出版社,9781365801136,Sociology,105.75,9,2021-12-23,兼顾理论深度与实际应用，适合项目实践参考。
+Economic Law Essentials,Ben Forta,Routledge,9787273701148,Law,57.5,1,1996-09-17,"Combines theory, examples, and review questions."
+政治学原理：进阶篇,周子涵,上海译文出版社,9781641301152,Politics,113.46,31,2024-02-09,适合入门学习与课程实验使用。
+现代小说赏析：进阶篇,郭晨,中国人民大学出版社,9781186701165,Literature,46.75,6,2024-08-23,适合入门学习与课程实验使用。
+Writing Poetry：进阶篇,David Wilson,Penguin Books,9780757701177,Poetry,71.59,17,2001-08-11,Useful as a reference book for academic and project work.
+博物馆艺术导览：基础篇,郭晨,机械工业出版社,9787218301181,Art,173.57,100,2007-04-09,适合入门学习与课程实验使用。
+中国民族音乐：案例教程,赵明轩,清华大学出版社,9780688401191,Music,44.25,89,1995-01-31,结构清晰，语言通俗，可用于自学和课堂教学。
+Graphic Design Essentials,Robert Taylor,Manning Publications,9781956101201,Design,129.89,115,2007-07-14,Designed for classroom learning and self-study.
+室内设计：实践版,张伟,中国人民大学出版社,9781152701212,Architecture,113.59,28,1996-06-30,适合大学生、教师及相关从业者阅读。
+背包旅行手册,陈思远,复旦大学出版社,9787397901226,Travel,47.5,72,2017-05-09,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Human Geography Guide,Robert Taylor,Penguin Books,9781654601232,Geography,135.64,92,2026-01-31,"Suitable for students, teachers, and general readers."
+跨文化交际：案例教程,高云,高等教育出版社,9781504401241,Language,130.39,15,2014-09-13,结合真实案例，强调知识理解与实际操作。
+英语写作教程（第3版）,郭晨,化学工业出版社,9781845001254,English Learning,95.69,43,2025-04-23,内容系统，案例丰富，适合作为教材或参考书。
+Classical Chinese Literature：基础篇,Jennifer Anderson,Penguin Books,9781353501260,Chinese Literature,108.18,28,2020-07-25,A practical introduction with clear examples and exercises.
+儿童故事集：案例教程,唐朔飞,高等教育出版社,9780518501275,Children,84.74,15,1997-12-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+未来城市：基础篇,谢希仁,科学出版社,9787308901284,Science Fiction,125.04,44,2019-06-19,内容系统，案例丰富，适合作为教材或参考书。
+The Last Witness（第2版）,Stuart Russell,Random House,9781796201291,Mystery,40.77,53,2024-05-09,Designed for classroom learning and self-study.
+艺术大师传：基础篇,刘洋,科学出版社,9780435901301,Biography,70.81,17,2024-01-23,围绕核心概念展开，配有练习与拓展阅读。
+自律与成长（第3版）,刘遄,浙江教育出版社,9781714401314,Self-Help,157.54,66,2001-11-23,结构清晰，语言通俗，可用于自学和课堂教学。
+Healthy Living in Practice,Thomas Moore,Oxford University Press,9781601201324,Health,51.02,110,2014-09-30,Useful as a reference book for academic and project work.
+足球战术分析（第2版）,王珊,法律出版社,9787620601336,Sports,75.3,48,2005-11-21,适合大学生、教师及相关从业者阅读。
+中式烹饪技巧：理论与实践,刘洋,中华书局,9780657901349,Cooking,37.71,98,2002-05-08,适合大学生、教师及相关从业者阅读。
+Ecological Protection（第2版）,Robert Taylor,Routledge,9787633001352,Environment,89.38,84,2024-09-20,"Combines theory, examples, and review questions."
+Web全栈开发,高云,科学出版社,9781664401365,Programming,52.04,2,2018-10-11,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+数据仓库技术：理论与实践,刘遄,复旦大学出版社,9781933201375,Database,86.27,49,2010-04-09,适合入门学习与课程实验使用。
+Digital Logic Basics in Practice,Peter Norvig,Wiley,9787337201386,Computer Science,125.44,103,2015-08-25,"Combines theory, examples, and review questions."
+TCP/IP详解（第2版）,刘遄,作家出版社,9780141601397,Network,97.93,87,2013-09-30,结合真实案例，强调知识理解与实际操作。
+Linux系统管理：进阶篇,谢希仁,商务印书馆,9781656801401,Operating System,53.47,62,2020-02-21,适合入门学习与课程实验使用。
+Machine Learning Guide：实践版,Joshua Bloch,HarperCollins,9787492601410,Artificial Intelligence,192.51,60,2018-08-22,Provides structured explanations and practical case studies.
+大数据技术基础：基础篇,张伟,法律出版社,9780432601426,Data Science,73.38,52,2017-08-09,适合大学生、教师及相关从业者阅读。
+软件测试技术：从入门到精通,谢希仁,中国人民大学出版社,9787466401435,Software Engineering,89.94,116,2025-10-31,内容系统，案例丰富，适合作为教材或参考书。
+Information Security Guide,Andrew Tanenbaum,Springer,9781703801446,Cybersecurity,81.81,43,1997-07-18,A concise guide for beginners and intermediate learners.
+高等数学：基础篇,胡志强,电子工业出版社,9781881001454,Mathematics,138.59,33,2016-12-03,适合入门学习与课程实验使用。
+热学与统计物理：基础篇,周志华,高等教育出版社,9781178601466,Physics,147.17,43,2005-05-15,兼顾理论深度与实际应用，适合项目实践参考。
+General Chemistry Essentials,Eric Matthes,Elsevier,9787606501476,Chemistry,52.89,17,2012-12-06,Designed for classroom learning and self-study.
+遗传学导论：实践版,严蔚敏,中华书局,9787342401481,Biology,39.88,22,2014-11-30,适合大学生、教师及相关从业者阅读。
+临床医学概论（第2版）,王晓明,复旦大学出版社,9781598101492,Medicine,141.0,65,2023-06-08,适合入门学习与课程实验使用。
+Macroeconomics in Practice,Andrew Tanenbaum,Packt Publishing,9787619501500,Economics,48.52,95,2002-12-23,Useful as a reference book for academic and project work.
+项目管理实践：案例教程,王晓明,中信出版社,9787234801511,Management,113.75,83,2024-03-03,适合大学生、教师及相关从业者阅读。
+公司理财：进阶篇,王晓明,人民邮电出版社,9781692501525,Finance,88.13,51,2004-02-09,结合真实案例，强调知识理解与实际操作。
+Brand Strategy Handbook 153,David Wilson,Pearson Education,9781974501533,Marketing,139.37,104,2022-06-28,Covers fundamental concepts and real-world applications.
+积极心理学：基础篇,王晓明,上海译文出版社,9781478501541,Psychology,141.31,73,2021-01-14,兼顾理论深度与实际应用，适合项目实践参考。
+班级管理（第3版）,刘遄,上海译文出版社,9781291001556,Education,131.05,81,2025-09-08,适合入门学习与课程实验使用。
+World History Guide,Michael Brown,HarperCollins,9787118301564,History,110.87,48,2026-03-05,Useful as a reference book for academic and project work.
+哲学导论（第2版）,唐朔飞,机械工业出版社,9780102101577,Philosophy,42.81,48,2014-02-17,兼顾理论深度与实际应用，适合项目实践参考。
+社会调查方法：理论与实践,张伟,法律出版社,9787216901581,Sociology,47.29,22,1998-05-02,兼顾理论深度与实际应用，适合项目实践参考。
+Introduction to Law：实践版,Cay Horstmann,HarperCollins,9781410701596,Law,80.0,92,2006-03-24,Designed for classroom learning and self-study.
+政治学原理：实践版,梁博文,作家出版社,9781919401607,Politics,123.71,71,2001-02-25,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+外国文学史（第3版）,霍春阳,人民文学出版社,9780510801618,Literature,126.85,59,2016-10-18,结合真实案例，强调知识理解与实际操作。
+Writing Poetry,Ben Forta,Oxford University Press,9787933901628,Poetry,63.15,66,2020-11-23,Provides structured explanations and practical case studies.
+艺术概论（第2版）,刘遄,译林出版社,9787823001636,Art,72.3,48,2019-12-03,内容系统，案例丰富，适合作为教材或参考书。
+中国民族音乐：案例教程 164,王珊,高等教育出版社,9781728101644,Music,67.86,79,2018-11-01,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Graphic Design Guide,Sarah Davis,Penguin Books,9780150201656,Design,65.19,112,2009-01-03,A practical introduction with clear examples and exercises.
+室内设计：案例教程,刘洋,商务印书馆,9780481901669,Architecture,154.35,35,2001-05-06,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+中国自助游：项目化教程,赵明轩,科学出版社,9787854801670,Travel,55.5,111,2007-08-18,结构清晰，语言通俗，可用于自学和课堂教学。
+Regional Geography Essentials,Cay Horstmann,Routledge,9787171301686,Geography,121.76,113,2016-09-21,Useful as a reference book for academic and project work.
+汉语写作：实践版,高云,电子工业出版社,9780800401696,Language,151.3,36,1996-07-10,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+英语写作教程,朱雅雯,电子工业出版社,9787346701709,English Learning,104.57,69,2012-03-12,结构清晰，语言通俗，可用于自学和课堂教学。
+Modern Chinese Literature Workshop,Nancy White,Wiley,9787901101715,Chinese Literature,49.31,33,2002-09-29,"Suitable for students, teachers, and general readers."
+科学小实验：进阶篇,郭晨,人民邮电出版社,9787999501725,Children,65.45,46,2005-11-26,内容系统，案例丰富，适合作为教材或参考书。
+时间机器：基础篇,梁博文,中国人民大学出版社,9780774801737,Science Fiction,54.63,50,2017-03-10,结构清晰，语言通俗，可用于自学和课堂教学。
+The Missing File Essentials,Robert C. Martin,Pearson Education,9787530501740,Mystery,107.44,96,2009-02-15,Covers fundamental concepts and real-world applications.
+名人传记：理论与实践 175,何嘉宁,中国人民大学出版社,9787144601751,Biography,121.1,106,2004-10-20,内容系统，案例丰富，适合作为教材或参考书。
+自律与成长,严蔚敏,北京大学出版社,9780929401768,Self-Help,158.5,4,2017-09-02,结合真实案例，强调知识理解与实际操作。
+Exercise and Health：实践版,Eric Matthes,Elsevier,9787535501776,Health,59.32,8,2023-07-19,Provides structured explanations and practical case studies.
+足球战术分析（第2版） 178,马天宇,中国轻工业出版社,9781538101780,Sports,137.27,78,2021-07-08,结构清晰，语言通俗，可用于自学和课堂教学。
+中式烹饪技巧：从入门到精通 179,郑文博,浙江教育出版社,9780678401798,Cooking,37.25,90,2003-10-25,适合大学生、教师及相关从业者阅读。
+Environmental Science,Andrew Tanenbaum,McGraw-Hill Education,9780491901802,Environment,123.25,11,2011-04-24,Covers fundamental concepts and real-world applications.
+Java程序设计（第2版）,张海藩,中国轻工业出版社,9781503301818,Programming,136.41,74,2022-08-27,内容系统，案例丰富，适合作为教材或参考书。
+MySQL应用教程,吴雨桐,电子工业出版社,9787803301824,Database,99.42,102,2006-03-31,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Algorithms and Structures（第2版）,Emily Johnson,Elsevier,9787804801835,Computer Science,181.31,60,1996-01-03,Designed for classroom learning and self-study.
+TCP/IP详解：从入门到精通,马天宇,高等教育出版社,9787147601840,Network,72.78,40,2016-02-28,内容系统，案例丰富，适合作为教材或参考书。
+Linux系统管理（第3版）,高云,商务印书馆,9780283601859,Operating System,45.21,34,2006-09-14,内容系统，案例丰富，适合作为教材或参考书。
+Artificial Intelligence Basics Guide,James Clark,Cambridge University Press,9781751301868,Artificial Intelligence,168.48,78,2015-01-31,Provides structured explanations and practical case studies.
+数据分析方法：案例教程,高云,上海译文出版社,9781138401877,Data Science,90.84,95,2023-08-09,围绕核心概念展开，配有练习与拓展阅读。
+敏捷开发方法：基础篇,孙立新,上海译文出版社,9780132101882,Software Engineering,135.92,92,1995-01-03,围绕核心概念展开，配有练习与拓展阅读。
+Applied Cryptography（第3版）,Emily Johnson,Springer,9781846401893,Cybersecurity,104.64,73,2021-12-23,A concise guide for beginners and intermediate learners.
+微积分教程：实践版,周志华,中信出版社,9787983801909,Mathematics,117.32,84,2004-11-09,适合入门学习与课程实验使用。
+电磁学基础：项目化教程,郭晨,中华书局,9780573801914,Physics,109.5,49,1999-08-01,围绕核心概念展开，配有练习与拓展阅读。
+Chemistry Lab Manual（第2版）,Craig Walls,Pearson Education,9780635501929,Chemistry,86.44,63,1995-07-02,Provides structured explanations and practical case studies.
+生态学基础：基础篇,张伟,浙江教育出版社,9781198201936,Biology,89.07,0,2012-12-02,适合入门学习与课程实验使用。
+医学基础：理论与实践,周志华,人民邮电出版社,9781624601941,Medicine,126.32,68,1996-11-16,兼顾理论深度与实际应用，适合项目实践参考。
+Macroeconomics（第3版）,Jennifer Anderson,Cambridge University Press,9780439901956,Economics,41.03,73,2011-01-15,Provides structured explanations and practical case studies.
+管理学基础：实践版,胡志强,北京大学出版社,9781819001969,Management,92.22,6,2004-09-30,兼顾理论深度与实际应用，适合项目实践参考。
+风险管理：进阶篇,孙立新,中国人民大学出版社,9787707501979,Finance,45.3,8,2010-06-06,适合入门学习与课程实验使用。
+Brand Strategy Essentials,John Smith,Wiley,9781819301984,Marketing,92.09,60,2012-02-18,"Suitable for students, teachers, and general readers."
+积极心理学（第2版）,林海峰,北京大学出版社,9780411001995,Psychology,139.55,116,1996-01-13,兼顾理论深度与实际应用，适合项目实践参考。
+现代教育技术：实践版,孙立新,中国人民大学出版社,9780339002005,Education,75.87,109,2014-02-16,适合入门学习与课程实验使用。
+European Civilization,Sarah Davis,McGraw-Hill Education,9781519002013,History,76.78,44,2011-09-19,Provides structured explanations and practical case studies.
+伦理学基础（第3版）,严蔚敏,人民文学出版社,9787960302023,Philosophy,106.49,102,2014-12-24,兼顾理论深度与实际应用，适合项目实践参考。
+社会学概论：实践版,马天宇,电子工业出版社,9781325502035,Sociology,155.08,24,2011-08-15,结构清晰，语言通俗，可用于自学和课堂教学。
+Civil Law：基础篇,Ben Forta,Elsevier,9781520302041,Law,68.7,113,2025-07-24,Designed for classroom learning and self-study.
+政治学原理,高云,中国轻工业出版社,9787151402051,Politics,155.27,27,2001-01-12,兼顾理论深度与实际应用，适合项目实践参考。
+外国文学史：进阶篇,张伟,上海译文出版社,9781430502067,Literature,149.94,101,2007-11-17,结构清晰，语言通俗，可用于自学和课堂教学。
+Modern Poetry,Cay Horstmann,Random House,9787518502073,Poetry,33.97,44,2003-02-28,A practical introduction with clear examples and exercises.
+艺术鉴赏,朱雅雯,上海译文出版社,9787380502089,Art,147.76,48,2025-04-18,内容系统，案例丰富，适合作为教材或参考书。
+中国民族音乐：项目化教程,梁博文,复旦大学出版社,9780261302099,Music,128.34,63,2003-04-01,结合真实案例，强调知识理解与实际操作。
+User Experience Design Handbook,Eric Matthes,No Starch Press,9780511702105,Design,47.51,93,2011-11-24,Designed for classroom learning and self-study.
+中外建筑史（第2版）,陈思远,商务印书馆,9787571502119,Architecture,74.71,16,2020-08-12,适合入门学习与课程实验使用。
+旅行摄影,黄静,机械工业出版社,9780712102124,Travel,81.34,12,2023-11-05,结合真实案例，强调知识理解与实际操作。
+Physical Geography：案例教程 213,Martin Fowler,Springer,9787864902138,Geography,42.82,106,2011-07-18,Designed for classroom learning and self-study.
+汉语写作：案例教程,黄静,中华书局,9780450302145,Language,95.11,75,2010-09-29,兼顾理论深度与实际应用，适合项目实践参考。
+英语语法精讲：理论与实践,周子涵,译林出版社,9780539302158,English Learning,139.99,21,2011-08-09,内容系统，案例丰富，适合作为教材或参考书。
+Classical Chinese Literature：实践版,Andrew Tanenbaum,HarperCollins,9780255102162,Chinese Literature,101.42,89,2020-05-20,"Suitable for students, teachers, and general readers."
+科学小实验,唐朔飞,商务印书馆,9787495502172,Children,36.56,70,2016-07-08,结构清晰，语言通俗，可用于自学和课堂教学。
+时间机器：案例教程,霍春阳,化学工业出版社,9781963502183,Science Fiction,90.36,43,1997-10-03,适合大学生、教师及相关从业者阅读。
+The Last Witness（第2版） 219,Cay Horstmann,Penguin Books,9781632302199,Mystery,70.75,41,1995-12-22,"Suitable for students, teachers, and general readers."
+科学家的故事（第3版）,郭晨,电子工业出版社,9781681602202,Biography,130.58,96,2016-06-27,围绕核心概念展开，配有练习与拓展阅读。
+自律与成长：项目化教程 221,周志华,浙江教育出版社,9781166802219,Self-Help,133.94,85,2020-03-16,适合大学生、教师及相关从业者阅读。
+Sleep Management：实践版,John Smith,No Starch Press,9787535402226,Health,120.22,71,2001-10-02,Provides structured explanations and practical case studies.
+篮球训练教程：基础篇,何嘉宁,人民邮电出版社,9780257502236,Sports,139.26,53,2000-12-25,结合真实案例，强调知识理解与实际操作。
+中式烹饪技巧：案例教程,刘遄,北京大学出版社,9780424602240,Cooking,25.19,96,2005-04-18,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Ecological Protection（第2版） 225,Stuart Russell,Packt Publishing,9780135902257,Environment,157.62,116,2015-05-18,"Suitable for students, teachers, and general readers."
+Web全栈开发 226,王珊,电子工业出版社,9787865302265,Programming,83.19,0,2021-07-09,结构清晰，语言通俗，可用于自学和课堂教学。
+数据库系统原理：进阶篇,陈思远,中国轻工业出版社,9780810002272,Database,48.34,9,2011-02-22,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Theory of Computing：基础篇,Thomas Moore,Random House,9787778102280,Computer Science,166.83,28,2020-03-06,A concise guide for beginners and intermediate learners.
+路由与交换技术：从入门到精通,严蔚敏,机械工业出版社,9780549002291,Network,86.48,1,2016-11-18,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+内核设计基础：实践版,严蔚敏,作家出版社,9781300302308,Operating System,76.16,2,2022-01-07,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Deep Learning Applications in Practice,Robert Taylor,HarperCollins,9781382602310,Artificial Intelligence,149.8,46,2010-01-24,"Suitable for students, teachers, and general readers."
+商业数据分析：进阶篇,刘遄,中国人民大学出版社,9780951002322,Data Science,60.35,2,2016-04-05,内容系统，案例丰富，适合作为教材或参考书。
+需求分析实践：进阶篇 233,郭晨,电子工业出版社,9787797402330,Software Engineering,75.58,50,2003-03-19,结构清晰，语言通俗，可用于自学和课堂教学。
+Secure Software Design Guide,Ben Forta,HarperCollins,9787942602349,Cybersecurity,45.07,110,2000-02-26,Useful as a reference book for academic and project work.
+线性代数（第2版）,张伟,复旦大学出版社,9780618702350,Mathematics,81.34,11,2006-08-12,内容系统，案例丰富，适合作为教材或参考书。
+热学与统计物理：项目化教程,霍春阳,中信出版社,9787686902361,Physics,156.72,4,1995-04-23,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Materials Chemistry（第2版）,Michael Brown,Cambridge University Press,9780625202379,Chemistry,62.1,108,2010-03-21,"Combines theory, examples, and review questions."
+普通生物学（第3版）,吴雨桐,机械工业出版社,9787335402389,Biology,79.8,116,1995-09-28,内容系统，案例丰富，适合作为教材或参考书。
+医学基础,王晓明,清华大学出版社,9780172402390,Medicine,124.18,113,2016-10-24,结合真实案例，强调知识理解与实际操作。
+Microeconomics,Stuart Russell,Penguin Books,9781944002404,Economics,91.13,69,2008-10-15,Designed for classroom learning and self-study.
+项目管理实践：实践版,黄静,高等教育出版社,9787580202413,Management,128.69,59,1999-09-06,结构清晰，语言通俗，可用于自学和课堂教学。
+风险管理：基础篇,张海藩,高等教育出版社,9787391202428,Finance,131.5,21,2023-04-20,结合真实案例，强调知识理解与实际操作。
+Marketing Management：实践版,Joshua Bloch,Cambridge University Press,9781993602433,Marketing,39.54,118,2018-06-28,A practical introduction with clear examples and exercises.
+发展心理学：理论与实践,朱雅雯,中信出版社,9780617302445,Psychology,78.38,68,1998-03-24,兼顾理论深度与实际应用，适合项目实践参考。
+教育心理学：进阶篇,张伟,商务印书馆,9787411502453,Education,127.65,57,2012-06-26,内容系统，案例丰富，适合作为教材或参考书。
+European Civilization（第3版）,Sarah Davis,MIT Press,9781233502462,History,48.52,70,2008-07-26,"Combines theory, examples, and review questions."
+逻辑学教程,胡志强,作家出版社,9787433702473,Philosophy,127.61,53,2015-01-19,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+家庭社会学：项目化教程,唐朔飞,译林出版社,9787607702483,Sociology,39.64,89,2021-02-10,适合大学生、教师及相关从业者阅读。
+Introduction to Law in Practice,Eric Matthes,Springer,9781437002492,Law,79.94,85,2023-02-28,Covers fundamental concepts and real-world applications.
+国际关系导论：实践版,胡志强,中华书局,9787453102505,Politics,142.19,116,1996-07-15,适合入门学习与课程实验使用。
+世界文学名著导读（第2版）,朱雅雯,北京大学出版社,9781601102515,Literature,37.94,38,2012-10-02,结合真实案例，强调知识理解与实际操作。
+Selected Poems：进阶篇,Emily Johnson,No Starch Press,9780753502525,Poetry,63.57,85,1999-02-22,A practical introduction with clear examples and exercises.
+艺术鉴赏：进阶篇,黄静,译林出版社,9781806502530,Art,176.36,116,2000-12-12,兼顾理论深度与实际应用，适合项目实践参考。
+中国民族音乐,郑文博,高等教育出版社,9780998302546,Music,61.79,29,2017-07-08,结合真实案例，强调知识理解与实际操作。
+Graphic Design（第3版）,James Clark,Cambridge University Press,9781265302559,Design,137.33,47,2025-10-09,Useful as a reference book for academic and project work.
+中外建筑史：基础篇,孙立新,浙江教育出版社,9787535802569,Architecture,147.38,22,2016-10-02,内容系统，案例丰富，适合作为教材或参考书。
+世界旅行指南（第2版）,黄静,浙江教育出版社,9781987102574,Travel,78.13,12,2003-06-02,内容系统，案例丰富，适合作为教材或参考书。
+Human Geography Essentials,Thomas Moore,Penguin Books,9787128902584,Geography,109.09,95,2006-08-23,A concise guide for beginners and intermediate learners.
+跨文化交际：项目化教程,黄静,译林出版社,9787356902592,Language,110.88,21,2004-06-30,兼顾理论深度与实际应用，适合项目实践参考。
+雅思词汇：理论与实践,王珊,中信出版社,9787266002603,English Learning,141.62,101,2022-11-03,适合入门学习与课程实验使用。
+Dream of the Red Chamber,Michael Brown,Oxford University Press,9780517802618,Chinese Literature,60.78,91,2026-03-11,Designed for classroom learning and self-study.
+少儿百科全书（第3版）,陈思远,中华书局,9780606602624,Children,82.54,91,2017-01-20,内容系统，案例丰富，适合作为教材或参考书。
+星际远航：项目化教程,霍春阳,人民邮电出版社,9781502202635,Science Fiction,56.61,93,2026-02-08,结构清晰，语言通俗，可用于自学和课堂教学。
+Castle Mystery in Practice,Nancy White,O'Reilly Media,9780586802649,Mystery,147.46,61,2026-02-05,Useful as a reference book for academic and project work.
+科学家的故事：从入门到精通,梁博文,中华书局,9787462702659,Biography,98.39,33,2000-04-05,围绕核心概念展开，配有练习与拓展阅读。
+沟通的艺术：案例教程,郭晨,清华大学出版社,9787731702663,Self-Help,129.32,22,2022-05-09,兼顾理论深度与实际应用，适合项目实践参考。
+Exercise and Health：案例教程,Robert Taylor,O'Reilly Media,9781736302675,Health,97.1,9,2013-05-08,Designed for classroom learning and self-study.
+体育运动概论（第2版）,孙立新,法律出版社,9781576202685,Sports,40.81,77,2023-04-23,围绕核心概念展开，配有练习与拓展阅读。
+营养早餐：案例教程,孙立新,作家出版社,9787730102693,Cooking,50.67,33,1999-09-26,兼顾理论深度与实际应用，适合项目实践参考。
+Climate Change,Michael Brown,Oxford University Press,9781391502700,Environment,56.68,47,2006-04-02,A concise guide for beginners and intermediate learners.
+Web全栈开发：从入门到精通,朱雅雯,浙江教育出版社,9780208702715,Programming,148.37,63,2006-05-11,结合真实案例，强调知识理解与实际操作。
+SQL查询基础：进阶篇,严蔚敏,机械工业出版社,9787420102729,Database,132.49,117,2007-07-02,适合入门学习与课程实验使用。
+Digital Logic Basics（第2版）,Nancy White,Pearson Education,9787782702735,Computer Science,87.77,73,2020-02-06,Covers fundamental concepts and real-world applications.
+网络协议分析：从入门到精通,高云,机械工业出版社,9780855602741,Network,86.1,55,2006-02-25,兼顾理论深度与实际应用，适合项目实践参考。
+进程与线程,梁博文,电子工业出版社,9780810602755,Operating System,44.98,41,2013-06-23,结合真实案例，强调知识理解与实际操作。
+Natural Language Processing,Robert C. Martin,HarperCollins,9780634102769,Artificial Intelligence,151.89,74,1996-06-24,Designed for classroom learning and self-study.
+数据可视化,刘洋,科学出版社,9781750602775,Data Science,116.23,19,2001-01-14,兼顾理论深度与实际应用，适合项目实践参考。
+需求分析实践：实践版,张海藩,商务印书馆,9781878302786,Software Engineering,141.7,56,2007-05-12,结合真实案例，强调知识理解与实际操作。
+Penetration Testing Basics,Daniel Martin,Elsevier,9787566602794,Cybersecurity,63.91,63,2024-05-23,A practical introduction with clear examples and exercises.
+微积分教程：实践版 280,吴雨桐,人民邮电出版社,9780280802808,Mathematics,124.46,101,2019-04-24,内容系统，案例丰富，适合作为教材或参考书。
+力学原理,吴雨桐,北京大学出版社,9781705502815,Physics,122.48,102,2001-10-15,结构清晰，语言通俗，可用于自学和课堂教学。
+Analytical Chemistry（第3版）,Thomas Moore,MIT Press,9787456602828,Chemistry,143.3,112,1997-06-13,Useful as a reference book for academic and project work.
+普通生物学,朱雅雯,电子工业出版社,9781738202836,Biology,118.65,87,2003-06-23,围绕核心概念展开，配有练习与拓展阅读。
+护理学基础：基础篇 284,胡志强,人民文学出版社,9781333102845,Medicine,99.36,96,1998-11-20,结构清晰，语言通俗，可用于自学和课堂教学。
+Development Economics（第3版）,Peter Norvig,Packt Publishing,9780253302854,Economics,93.32,78,2015-08-05,"Suitable for students, teachers, and general readers."
+战略管理（第3版）,何嘉宁,中国轻工业出版社,9780170302869,Management,156.7,19,2016-07-01,适合入门学习与课程实验使用。
+公司理财：理论与实践,刘洋,译林出版社,9781449902872,Finance,93.09,65,2001-08-14,围绕核心概念展开，配有练习与拓展阅读。
+Marketing Management,Craig Walls,Manning Publications,9780836202885,Marketing,77.63,98,2013-09-22,"Combines theory, examples, and review questions."
+认知心理学（第2版）,李华,人民文学出版社,9780745402895,Psychology,45.52,106,1999-02-07,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+现代教育技术：案例教程 290,林海峰,北京大学出版社,9787225702902,Education,139.9,118,1997-11-05,结合真实案例，强调知识理解与实际操作。
+Ancient Societies,Cay Horstmann,Routledge,9780284702913,History,64.76,47,2025-08-22,Designed for classroom learning and self-study.
+伦理学基础：进阶篇,刘遄,译林出版社,9787494802921,Philosophy,61.53,92,2009-09-01,内容系统，案例丰富，适合作为教材或参考书。
+社会调查方法：实践版,刘遄,电子工业出版社,9780106802937,Sociology,137.62,4,2024-01-30,适合大学生、教师及相关从业者阅读。
+Economic Law：实践版,Peter Norvig,Pearson Education,9780121402945,Law,142.65,79,2016-08-12,Provides structured explanations and practical case studies.
+行政管理学：实践版,梁博文,高等教育出版社,9787619502958,Politics,137.64,49,2001-04-01,结合真实案例，强调知识理解与实际操作。
+世界文学名著导读：案例教程,周志华,作家出版社,9787520602969,Literature,67.44,91,2022-07-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+World Poetry Handbook,Eric Matthes,No Starch Press,9780513302976,Poetry,54.45,70,2026-04-29,Covers fundamental concepts and real-world applications.
+博物馆艺术导览：实践版,李华,中信出版社,9780433702986,Art,136.83,27,2008-03-15,内容系统，案例丰富，适合作为教材或参考书。
+音乐欣赏（第2版）,赵明轩,人民邮电出版社,9780723602996,Music,129.68,48,2001-02-17,适合大学生、教师及相关从业者阅读。
+Design Basics Handbook,Michael Brown,McGraw-Hill Education,9781427503008,Design,84.34,20,2002-02-12,Provides structured explanations and practical case studies.
+建筑设计基础：项目化教程,郑文博,化学工业出版社,9787497903014,Architecture,179.56,42,2017-07-19,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+世界旅行指南（第2版） 302,朱雅雯,中华书局,9780663703029,Travel,29.39,58,2014-11-20,围绕核心概念展开，配有练习与拓展阅读。
+Regional Geography,Nancy White,No Starch Press,9787704203036,Geography,156.83,53,2011-12-13,A practical introduction with clear examples and exercises.
+语言学概论：实践版,周子涵,机械工业出版社,9781574103045,Language,48.48,90,2010-11-07,适合大学生、教师及相关从业者阅读。
+英语语法精讲,张海藩,人民文学出版社,9787872003056,English Learning,49.86,28,2003-02-11,适合大学生、教师及相关从业者阅读。
+Classical Chinese Literature Guide,Cay Horstmann,MIT Press,9781727403060,Chinese Literature,91.65,23,2019-02-09,Covers fundamental concepts and real-world applications.
+少儿百科全书：理论与实践,梁博文,上海译文出版社,9787640503078,Children,76.59,5,2009-01-13,结构清晰，语言通俗，可用于自学和课堂教学。
+星际远航：从入门到精通,王晓明,高等教育出版社,9787688003080,Science Fiction,84.57,0,2013-11-18,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Truth in the Fog Workshop,Michael Brown,Springer,9787773703093,Mystery,93.31,65,2022-02-01,"Suitable for students, teachers, and general readers."
+艺术大师传（第2版）,严蔚敏,机械工业出版社,9780947403102,Biography,83.95,82,1995-06-29,适合大学生、教师及相关从业者阅读。
+时间管理：从入门到精通,周子涵,化学工业出版社,9781358403118,Self-Help,45.66,99,2001-05-14,适合大学生、教师及相关从业者阅读。
+Mental Wellness Handbook,Thomas Moore,HarperCollins,9787167803125,Health,97.05,40,1999-02-12,Designed for classroom learning and self-study.
+篮球训练教程：基础篇 313,张伟,商务印书馆,9781133603139,Sports,125.02,56,2009-07-13,内容系统，案例丰富，适合作为教材或参考书。
+烘焙入门：基础篇,周志华,机械工业出版社,9780414403147,Cooking,80.12,17,2023-02-18,结合真实案例，强调知识理解与实际操作。
+Green Living Workshop,Nancy White,MIT Press,9787482803152,Environment,131.01,5,2000-02-12,"Combines theory, examples, and review questions."
+Java程序设计：案例教程,马天宇,清华大学出版社,9787868203163,Programming,68.07,89,2010-06-07,结构清晰，语言通俗，可用于自学和课堂教学。
+Redis设计实践（第2版）,严蔚敏,高等教育出版社,9787608003176,Database,77.85,27,2025-10-11,适合入门学习与课程实验使用。
+Digital Logic Basics Workshop,John Smith,Oxford University Press,9787593303183,Computer Science,178.67,81,2009-12-28,Useful as a reference book for academic and project work.
+路由与交换技术：进阶篇,罗佳,中华书局,9787746203193,Network,112.75,5,2022-11-11,内容系统，案例丰富，适合作为教材或参考书。
+Linux系统管理：项目化教程,朱雅雯,北京大学出版社,9780691603209,Operating System,97.89,36,2011-02-26,围绕核心概念展开，配有练习与拓展阅读。
+Natural Language Processing：案例教程,Jennifer Anderson,Packt Publishing,9780977203215,Artificial Intelligence,103.34,89,2007-04-13,Useful as a reference book for academic and project work.
+数据可视化（第2版）,张海藩,法律出版社,9787855603228,Data Science,95.56,115,2010-12-26,适合大学生、教师及相关从业者阅读。
+敏捷开发方法：项目化教程 323,霍春阳,机械工业出版社,9780564903238,Software Engineering,113.45,97,2001-09-30,结合真实案例，强调知识理解与实际操作。
+Cybersecurity Fundamentals：进阶篇,Cay Horstmann,No Starch Press,9780149703246,Cybersecurity,84.17,35,2004-09-09,Designed for classroom learning and self-study.
+线性代数：实践版,张伟,科学出版社,9781809303257,Mathematics,142.04,38,2002-02-10,适合大学生、教师及相关从业者阅读。
+热学与统计物理：基础篇 326,李华,浙江教育出版社,9780647603260,Physics,115.84,10,2006-03-22,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Organic Chemistry Handbook,Eric Matthes,Springer,9780403903276,Chemistry,141.3,105,2000-01-23,"Combines theory, examples, and review questions."
+普通生物学（第3版） 328,梁博文,法律出版社,9780586103289,Biology,83.18,83,2015-09-09,适合入门学习与课程实验使用。
+临床医学概论：实践版,孙立新,北京大学出版社,9781269203296,Medicine,98.62,71,2023-03-14,适合大学生、教师及相关从业者阅读。
+Development Economics：基础篇,Joshua Bloch,Wiley,9787620503302,Economics,73.82,109,2005-04-07,"Combines theory, examples, and review questions."
+人力资源管理：进阶篇,霍春阳,商务印书馆,9780890303313,Management,85.66,16,2015-11-15,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+证券市场分析：理论与实践,罗佳,北京大学出版社,9780417903323,Finance,85.95,29,2019-07-05,内容系统，案例丰富，适合作为教材或参考书。
+Digital Marketing,James Clark,Springer,9781932503333,Marketing,41.72,102,2020-10-19,Useful as a reference book for academic and project work.
+认知心理学：基础篇,郭晨,人民文学出版社,9781874703341,Psychology,112.06,87,1995-04-27,结构清晰，语言通俗，可用于自学和课堂教学。
+班级管理：实践版,何嘉宁,中信出版社,9780651503358,Education,54.78,102,2006-03-21,内容系统，案例丰富，适合作为教材或参考书。
+Ancient Societies in Practice,Sarah Davis,Pearson Education,9781516103362,History,136.68,70,2007-12-28,Provides structured explanations and practical case studies.
+伦理学基础,郭晨,清华大学出版社,9787471903375,Philosophy,72.87,72,2009-09-02,兼顾理论深度与实际应用，适合项目实践参考。
+城市社会学：项目化教程,谢希仁,北京大学出版社,9781231403389,Sociology,130.59,49,2012-05-18,结合真实案例，强调知识理解与实际操作。
+Criminal Law in Practice,Robert Taylor,Routledge,9780696803390,Law,141.57,57,1997-09-11,Designed for classroom learning and self-study.
+国际关系导论：理论与实践,陈思远,中国人民大学出版社,9787567903401,Politics,95.86,54,2024-10-29,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+外国文学史,李华,译林出版社,9787282903410,Literature,35.13,73,1999-02-01,兼顾理论深度与实际应用，适合项目实践参考。
+Writing Poetry Handbook,Craig Walls,No Starch Press,9780597603426,Poetry,50.48,88,2005-08-29,A practical introduction with clear examples and exercises.
+西方美术史：进阶篇,陈思远,上海译文出版社,9787494603436,Art,112.73,38,1997-07-02,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+西方音乐史（第3版）,刘洋,中华书局,9781833403442,Music,150.43,10,2010-10-16,围绕核心概念展开，配有练习与拓展阅读。
+User Experience Design：案例教程,Emily Johnson,CRC Press,9781847903457,Design,130.94,27,2014-11-23,Covers fundamental concepts and real-world applications.
+建筑结构概论（第3版）,朱雅雯,北京大学出版社,9787863103468,Architecture,141.05,46,2007-08-19,结构清晰，语言通俗，可用于自学和课堂教学。
+旅行摄影：案例教程,王晓明,人民邮电出版社,9780244203474,Travel,43.28,32,2012-12-05,结构清晰，语言通俗，可用于自学和课堂教学。
+Regional Geography：实践版,Emily Johnson,Cambridge University Press,9780439903486,Geography,97.78,110,2017-02-04,Provides structured explanations and practical case studies.
+应用语言学：基础篇,赵明轩,中华书局,9787879803499,Language,158.62,19,2014-12-27,结构清晰，语言通俗，可用于自学和课堂教学。
+英语语法精讲：实践版,张海藩,科学出版社,9781837303502,English Learning,75.05,78,1996-07-05,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Lu Xun Studies：实践版,Joshua Bloch,Routledge,9787311703516,Chinese Literature,76.04,57,2010-07-20,A practical introduction with clear examples and exercises.
+科学小实验：基础篇,陈思远,浙江教育出版社,9787901003521,Children,28.95,54,2013-05-07,适合大学生、教师及相关从业者阅读。
+星际远航：实践版,唐朔飞,译林出版社,9780991403530,Science Fiction,45.96,62,2014-02-08,适合入门学习与课程实验使用。
+The Midnight Case Workshop,Sarah Davis,Packt Publishing,9787117903547,Mystery,142.04,90,2020-11-26,"Combines theory, examples, and review questions."
+名人传记：实践版,张伟,科学出版社,9780739803554,Biography,60.58,10,1996-02-04,内容系统，案例丰富，适合作为教材或参考书。
+自律与成长：基础篇,孙立新,清华大学出版社,9780330403566,Self-Help,138.42,87,2001-05-07,内容系统，案例丰富，适合作为教材或参考书。
+Sleep Management Workshop,John Smith,Wiley,9780752203577,Health,82.53,88,2022-04-06,Covers fundamental concepts and real-world applications.
+游泳入门：理论与实践,刘遄,商务印书馆,9787675303582,Sports,59.63,14,1995-05-13,结合真实案例，强调知识理解与实际操作。
+家常菜谱：基础篇,张海藩,中国人民大学出版社,9780228203599,Cooking,87.23,22,2022-05-07,适合大学生、教师及相关从业者阅读。
+Sustainable Development Essentials,Craig Walls,CRC Press,9780314903600,Environment,158.71,28,2006-01-15,A concise guide for beginners and intermediate learners.
+Vue前端开发：项目化教程,王晓明,中信出版社,9780702803611,Programming,46.15,33,2018-02-10,结合真实案例，强调知识理解与实际操作。
+数据仓库技术：案例教程,周志华,商务印书馆,9787130303621,Database,45.16,105,1999-08-27,适合大学生、教师及相关从业者阅读。
+Computer Architecture Workshop,Martin Fowler,Springer,9781501603631,Computer Science,99.6,115,1999-07-31,A concise guide for beginners and intermediate learners.
+路由与交换技术：基础篇,朱雅雯,浙江教育出版社,9780700903641,Network,68.51,114,2018-04-22,结构清晰，语言通俗，可用于自学和课堂教学。
+操作系统原理：进阶篇,严蔚敏,浙江教育出版社,9780435803650,Operating System,58.94,28,2000-05-03,围绕核心概念展开，配有练习与拓展阅读。
+Machine Learning Guide（第2版）,Ben Forta,Pearson Education,9780436503665,Artificial Intelligence,158.79,31,2000-06-14,Covers fundamental concepts and real-world applications.
+商业数据分析（第2版）,周子涵,高等教育出版社,9781511803670,Data Science,131.31,103,2013-08-01,适合入门学习与课程实验使用。
+敏捷开发方法：理论与实践,郭晨,复旦大学出版社,9780637003681,Software Engineering,114.29,88,2016-05-15,结合真实案例，强调知识理解与实际操作。
+Penetration Testing Basics（第2版）,Eric Matthes,No Starch Press,9781744303695,Cybersecurity,77.54,10,2002-12-02,Covers fundamental concepts and real-world applications.
+概率论与数理统计：实践版,严蔚敏,中华书局,9787528703705,Mathematics,105.75,85,2022-11-26,适合大学生、教师及相关从业者阅读。
+大学物理：项目化教程 371,陈思远,作家出版社,9787357003717,Physics,108.61,94,2011-04-14,兼顾理论深度与实际应用，适合项目实践参考。
+Materials Chemistry,Daniel Martin,HarperCollins,9787745903728,Chemistry,86.76,101,2009-06-08,"Combines theory, examples, and review questions."
+生态学基础：案例教程,马天宇,译林出版社,9781593203733,Biology,79.41,40,2018-08-29,内容系统，案例丰富，适合作为教材或参考书。
+人体解剖学：从入门到精通,王珊,北京大学出版社,9787922703745,Medicine,91.55,9,1999-03-16,围绕核心概念展开，配有练习与拓展阅读。
+Principles of Economics（第3版）,Peter Norvig,Elsevier,9781606303757,Economics,90.18,19,2002-10-20,Covers fundamental concepts and real-world applications.
+人力资源管理：案例教程,周子涵,北京大学出版社,9780815503767,Management,129.32,74,2011-11-18,适合大学生、教师及相关从业者阅读。
+公司理财（第2版）,陈思远,北京大学出版社,9787158903773,Finance,35.16,31,2015-03-10,结构清晰，语言通俗，可用于自学和课堂教学。
+Digital Marketing（第2版）,Jennifer Anderson,Pearson Education,9780395303788,Marketing,134.55,21,2014-08-06,Designed for classroom learning and self-study.
+认知心理学（第2版） 379,郭晨,中华书局,9781223003795,Psychology,123.22,43,2019-07-16,结合真实案例，强调知识理解与实际操作。
+现代教育技术（第3版）,谢希仁,人民文学出版社,9787180203803,Education,146.36,98,2010-06-13,围绕核心概念展开，配有练习与拓展阅读。
+World History（第3版）,James Clark,Cambridge University Press,9787462303818,History,103.01,75,2005-05-21,Useful as a reference book for academic and project work.
+哲学导论：从入门到精通,李华,人民文学出版社,9781578103829,Philosophy,154.72,40,1999-02-01,围绕核心概念展开，配有练习与拓展阅读。
+城市社会学：案例教程,张伟,人民文学出版社,9780580703836,Sociology,84.09,75,2010-02-28,兼顾理论深度与实际应用，适合项目实践参考。
+Introduction to Law Guide,Joshua Bloch,McGraw-Hill Education,9781477803844,Law,144.3,77,2018-07-18,Useful as a reference book for academic and project work.
+行政管理学：项目化教程,谢希仁,浙江教育出版社,9781323903858,Politics,157.11,85,2021-05-15,兼顾理论深度与实际应用，适合项目实践参考。
+文学理论基础,王珊,上海译文出版社,9780637003865,Literature,82.18,76,2021-03-14,适合入门学习与课程实验使用。
+Classical Verse Guide,John Smith,O'Reilly Media,9780365403876,Poetry,78.19,94,2015-09-19,"Suitable for students, teachers, and general readers."
+艺术概论,谢希仁,法律出版社,9787263903880,Art,120.4,44,2002-08-18,适合大学生、教师及相关从业者阅读。
+古典音乐导读：实践版,黄静,电子工业出版社,9780781803892,Music,73.7,91,1996-04-26,围绕核心概念展开，配有练习与拓展阅读。
+User Experience Design Essentials,Laura Miller,O'Reilly Media,9780677903903,Design,102.31,28,2019-01-24,Useful as a reference book for academic and project work.
+建筑设计基础：基础篇,刘洋,作家出版社,9781996103913,Architecture,190.97,120,2020-06-22,内容系统，案例丰富，适合作为教材或参考书。
+世界旅行指南：基础篇,郑文博,中国轻工业出版社,9780347403924,Travel,72.68,50,2001-06-02,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Regional Geography（第3版）,Cay Horstmann,No Starch Press,9787218203935,Geography,134.63,32,2000-07-06,A practical introduction with clear examples and exercises.
+汉语写作：项目化教程,刘遄,机械工业出版社,9781592603947,Language,96.51,1,1998-12-27,内容系统，案例丰富，适合作为教材或参考书。
+大学英语阅读：项目化教程,孙立新,人民邮电出版社,9780738303956,English Learning,89.2,88,2008-09-26,结合真实案例，强调知识理解与实际操作。
+Lu Xun Studies：实践版 396,Robert Taylor,Cambridge University Press,9787181303960,Chinese Literature,153.56,81,1995-09-14,Provides structured explanations and practical case studies.
+儿童成长绘本：案例教程,张海藩,中信出版社,9781699603970,Children,66.71,15,2006-08-24,兼顾理论深度与实际应用，适合项目实践参考。
+未来城市：实践版,高云,译林出版社,9787946603984,Science Fiction,120.47,90,2026-02-21,适合入门学习与课程实验使用。
+Truth in the Fog Handbook,Daniel Martin,Manning Publications,9781910903995,Mystery,60.82,107,2004-12-03,Covers fundamental concepts and real-world applications.
+企业家成长史：从入门到精通,张伟,清华大学出版社,9780747504009,Biography,154.06,90,2004-08-02,结构清晰，语言通俗，可用于自学和课堂教学。
+沟通的艺术：进阶篇,王珊,高等教育出版社,9781293804018,Self-Help,126.77,70,2011-12-16,兼顾理论深度与实际应用，适合项目实践参考。
+Sleep Management Handbook,Craig Walls,Random House,9787307004023,Health,153.95,80,2015-04-10,Designed for classroom learning and self-study.
+体育运动概论：理论与实践,刘洋,北京大学出版社,9787836104034,Sports,43.65,63,1998-08-31,适合大学生、教师及相关从业者阅读。
+中式烹饪技巧：理论与实践 404,黄静,清华大学出版社,9787903504040,Cooking,42.73,44,2022-11-07,围绕核心概念展开，配有练习与拓展阅读。
+Climate Change in Practice,Jennifer Anderson,Elsevier,9787897204056,Environment,113.28,41,2010-09-10,"Combines theory, examples, and review questions."
+Python编程实践：进阶篇,郑文博,人民文学出版社,9780528904066,Programming,100.11,9,2000-11-14,兼顾理论深度与实际应用，适合项目实践参考。
+数据仓库技术：实践版,孙立新,中国人民大学出版社,9781449304072,Database,83.36,103,2009-07-05,结合真实案例，强调知识理解与实际操作。
+Computer Architecture（第2版）,Robert Taylor,Springer,9780654804087,Computer Science,126.05,29,1998-04-28,"Suitable for students, teachers, and general readers."
+网络工程实践：基础篇,王晓明,高等教育出版社,9780478704099,Network,132.11,89,2008-09-13,兼顾理论深度与实际应用，适合项目实践参考。
+进程与线程：案例教程,陈思远,作家出版社,9781662504105,Operating System,60.52,66,2012-01-15,内容系统，案例丰富，适合作为教材或参考书。
+Deep Learning Applications Workshop,Jennifer Anderson,HarperCollins,9787722204114,Artificial Intelligence,87.8,100,2006-11-29,A concise guide for beginners and intermediate learners.
+商业数据分析：项目化教程,张海藩,人民文学出版社,9780602004125,Data Science,104.04,5,2024-01-05,内容系统，案例丰富，适合作为教材或参考书。
+需求分析实践：从入门到精通,朱雅雯,化学工业出版社,9781732904132,Software Engineering,89.21,106,2024-07-16,内容系统，案例丰富，适合作为教材或参考书。
+Information Security（第3版）,Nancy White,Cambridge University Press,9781195904144,Cybersecurity,152.37,97,2000-03-14,"Combines theory, examples, and review questions."
+概率论与数理统计：实践版 415,周志华,清华大学出版社,9781983004155,Mathematics,158.06,65,1995-07-16,内容系统，案例丰富，适合作为教材或参考书。
+热学与统计物理：基础篇 416,朱雅雯,法律出版社,9781355904168,Physics,44.33,44,2023-06-14,结合真实案例，强调知识理解与实际操作。
+Organic Chemistry：进阶篇,Nancy White,HarperCollins,9781944904173,Chemistry,81.69,79,2025-11-13,Designed for classroom learning and self-study.
+分子生物学（第3版）,王珊,北京大学出版社,9781958304181,Biology,99.47,99,2019-11-14,兼顾理论深度与实际应用，适合项目实践参考。
+医学基础：理论与实践 419,唐朔飞,中国人民大学出版社,9780736104197,Medicine,158.27,117,2005-01-27,兼顾理论深度与实际应用，适合项目实践参考。
+Principles of Economics Handbook,Michael Brown,Random House,9781139704205,Economics,40.88,92,2011-12-26,"Suitable for students, teachers, and general readers."
+组织行为学（第2版）,李华,高等教育出版社,9780980604214,Management,65.39,105,1998-07-20,兼顾理论深度与实际应用，适合项目实践参考。
+风险管理：项目化教程,朱雅雯,高等教育出版社,9780932904225,Finance,136.28,6,2023-08-22,结构清晰，语言通俗，可用于自学和课堂教学。
+Advertising Planning Essentials,Peter Norvig,Springer,9787645404233,Marketing,59.3,30,2014-06-29,"Suitable for students, teachers, and general readers."
+发展心理学：进阶篇,王晓明,法律出版社,9780151504244,Psychology,122.35,52,2009-05-28,适合大学生、教师及相关从业者阅读。
+课程与教学论：实践版,朱雅雯,人民文学出版社,9787934604252,Education,36.35,53,2021-12-28,兼顾理论深度与实际应用，适合项目实践参考。
+Historical Research（第3版）,Laura Miller,Manning Publications,9787365204267,History,136.01,63,2014-10-24,Provides structured explanations and practical case studies.
+中国哲学简史（第3版）,唐朔飞,复旦大学出版社,9787734404274,Philosophy,36.34,120,2024-04-14,结构清晰，语言通俗，可用于自学和课堂教学。
+社会调查方法：基础篇,周志华,北京大学出版社,9787521704280,Sociology,70.56,13,2004-05-17,兼顾理论深度与实际应用，适合项目实践参考。
+Criminal Law in Practice 429,Stuart Russell,Routledge,9787485704296,Law,35.45,92,2022-01-31,A concise guide for beginners and intermediate learners.
+比较政治学：实践版,唐朔飞,复旦大学出版社,9780831704308,Politics,133.63,76,2000-03-03,适合入门学习与课程实验使用。
+世界文学名著导读：基础篇,吴雨桐,高等教育出版社,9780793304318,Literature,154.74,18,2018-04-23,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Selected Poems（第2版）,Eric Matthes,Pearson Education,9780985004323,Poetry,85.19,101,2023-12-15,Covers fundamental concepts and real-world applications.
+博物馆艺术导览：基础篇 433,马天宇,北京大学出版社,9780109704337,Art,190.2,18,2000-07-06,围绕核心概念展开，配有练习与拓展阅读。
+中国民族音乐：理论与实践,郭晨,人民邮电出版社,9781803204345,Music,113.96,70,2001-11-26,围绕核心概念展开，配有练习与拓展阅读。
+Interaction Design,Ben Forta,Springer,9787239604353,Design,80.88,67,2020-12-20,"Suitable for students, teachers, and general readers."
+室内设计,谢希仁,电子工业出版社,9780544204362,Architecture,81.26,57,1997-03-27,适合大学生、教师及相关从业者阅读。
+背包旅行手册：进阶篇,李华,化学工业出版社,9781518904370,Travel,74.39,37,2005-12-30,内容系统，案例丰富，适合作为教材或参考书。
+Human Geography 438,Eric Matthes,Elsevier,9781796104387,Geography,143.33,48,1997-02-20,A practical introduction with clear examples and exercises.
+语言学概论：实践版 439,梁博文,人民邮电出版社,9780612704398,Language,65.58,42,2003-10-18,适合入门学习与课程实验使用。
+英语语法精讲：从入门到精通,刘遄,中华书局,9781486604401,English Learning,55.32,75,2015-08-23,结合真实案例，强调知识理解与实际操作。
+Classical Chinese Literature：进阶篇,Nancy White,Wiley,9781280004414,Chinese Literature,101.04,107,1995-01-18,A concise guide for beginners and intermediate learners.
+儿童故事集：项目化教程,朱雅雯,作家出版社,9780350804428,Children,74.84,112,2022-02-07,内容系统，案例丰富，适合作为教材或参考书。
+银河边境：基础篇,梁博文,电子工业出版社,9781998304431,Science Fiction,118.54,22,1997-04-29,结合真实案例，强调知识理解与实际操作。
+Castle Mystery Essentials,David Wilson,Packt Publishing,9780780704442,Mystery,51.58,71,2014-10-05,Designed for classroom learning and self-study.
+名人传记：从入门到精通,唐朔飞,法律出版社,9781142404451,Biography,128.96,5,2010-04-10,结合真实案例，强调知识理解与实际操作。
+思维训练,周子涵,中国人民大学出版社,9780367804466,Self-Help,97.48,3,2000-03-14,围绕核心概念展开，配有练习与拓展阅读。
+Nutrition Basics in Practice,Joshua Bloch,Packt Publishing,9780394204475,Health,137.59,70,2024-03-12,A concise guide for beginners and intermediate learners.
+体育运动概论：实践版,赵明轩,法律出版社,9781671904484,Sports,153.31,19,2011-07-21,适合大学生、教师及相关从业者阅读。
+中式烹饪技巧：案例教程 449,孙立新,译林出版社,9781211304491,Cooking,85.37,19,1999-03-02,结构清晰，语言通俗，可用于自学和课堂教学。
+Environmental Science（第3版）,Ben Forta,HarperCollins,9781953304506,Environment,119.77,73,2015-01-15,"Suitable for students, teachers, and general readers."
+Java程序设计,周志华,中国人民大学出版社,9787298204518,Programming,153.78,115,2016-02-16,适合大学生、教师及相关从业者阅读。
+数据仓库技术：项目化教程,朱雅雯,浙江教育出版社,9781873604526,Database,104.9,34,2003-04-30,结构清晰，语言通俗，可用于自学和课堂教学。
+Theory of Computing Handbook,James Clark,Elsevier,9787232704531,Computer Science,171.62,103,2002-05-27,Provides structured explanations and practical case studies.
+网络协议分析：项目化教程,赵明轩,中华书局,9781616704544,Network,125.07,37,2004-04-16,兼顾理论深度与实际应用，适合项目实践参考。
+Linux系统管理：项目化教程 455,罗佳,商务印书馆,9787185504554,Operating System,45.05,6,2021-01-26,内容系统，案例丰富，适合作为教材或参考书。
+Artificial Intelligence Basics：案例教程,Emily Johnson,Routledge,9781965504567,Artificial Intelligence,109.87,21,2016-11-30,Designed for classroom learning and self-study.
+大数据技术基础,朱雅雯,译林出版社,9787993304575,Data Science,89.48,81,2022-02-08,适合大学生、教师及相关从业者阅读。
+软件工程导论：进阶篇,何嘉宁,商务印书馆,9787842304589,Software Engineering,57.27,25,2001-12-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Cybersecurity Fundamentals：实践版 459,Cay Horstmann,Random House,9780325304595,Cybersecurity,127.04,104,1998-12-24,Provides structured explanations and practical case studies.
+高等数学（第2版）,周子涵,中国轻工业出版社,9787571204600,Mathematics,154.75,51,2008-05-27,结构清晰，语言通俗，可用于自学和课堂教学。
+热学与统计物理,周志华,译林出版社,9787520304610,Physics,107.62,89,2004-07-11,适合入门学习与课程实验使用。
+Materials Chemistry：案例教程,Jennifer Anderson,O'Reilly Media,9787420904620,Chemistry,70.91,104,1998-12-19,"Combines theory, examples, and review questions."
+分子生物学 463,胡志强,译林出版社,9781726704632,Biology,35.36,118,1996-09-06,适合大学生、教师及相关从业者阅读。
+护理学基础：实践版,孙立新,高等教育出版社,9780281204649,Medicine,76.41,107,1997-01-12,结构清晰，语言通俗，可用于自学和课堂教学。
+Microeconomics Essentials,Thomas Moore,Oxford University Press,9781745004652,Economics,123.55,109,2000-07-27,Useful as a reference book for academic and project work.
+组织行为学：案例教程,何嘉宁,高等教育出版社,9781807104665,Management,157.49,9,2016-05-15,适合大学生、教师及相关从业者阅读。
+风险管理,王珊,复旦大学出版社,9781574804676,Finance,49.23,72,2017-12-27,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Marketing Management Essentials,Andrew Tanenbaum,Manning Publications,9780870504686,Marketing,144.9,36,2020-08-15,Designed for classroom learning and self-study.
+发展心理学（第2版）,赵明轩,上海译文出版社,9787607204697,Psychology,93.63,7,2013-12-22,结构清晰，语言通俗，可用于自学和课堂教学。
+教育学原理,刘遄,译林出版社,9780862704704,Education,108.85,6,2006-12-11,围绕核心概念展开，配有练习与拓展阅读。
+Historical Research（第3版） 471,Thomas Moore,Cambridge University Press,9781375604710,History,61.86,96,1998-12-23,Provides structured explanations and practical case studies.
+西方哲学史：案例教程,严蔚敏,清华大学出版社,9780531804728,Philosophy,73.72,4,1999-06-03,围绕核心概念展开，配有练习与拓展阅读。
+文化社会学：案例教程,刘洋,高等教育出版社,9781196404735,Sociology,122.6,24,2015-02-23,适合大学生、教师及相关从业者阅读。
+Intellectual Property Law Handbook,Nancy White,Pearson Education,9781118404744,Law,72.47,110,2025-09-12,"Suitable for students, teachers, and general readers."
+国际关系导论：进阶篇,周志华,机械工业出版社,9780830004751,Politics,94.64,23,2021-12-08,适合入门学习与课程实验使用。
+短篇小说选读：项目化教程,马天宇,商务印书馆,9780715604762,Literature,74.77,107,2021-03-07,结构清晰，语言通俗，可用于自学和课堂教学。
+Selected Poems（第2版） 477,John Smith,No Starch Press,9780542104770,Poetry,65.03,54,2007-07-10,"Suitable for students, teachers, and general readers."
+中国绘画史：项目化教程,周子涵,中国人民大学出版社,9781700204783,Art,75.84,106,2022-04-29,内容系统，案例丰富，适合作为教材或参考书。
+古典音乐导读：案例教程,周志华,北京大学出版社,9787993804792,Music,84.33,32,2018-02-19,适合入门学习与课程实验使用。
+Graphic Design（第2版）,Daniel Martin,O'Reilly Media,9781984104809,Design,114.04,55,2019-12-03,Provides structured explanations and practical case studies.
+建筑结构概论：从入门到精通,张海藩,化学工业出版社,9780982504819,Architecture,173.08,20,2001-12-21,围绕核心概念展开，配有练习与拓展阅读。
+中国自助游（第2版） 482,霍春阳,化学工业出版社,9780835804820,Travel,66.38,98,1997-03-04,结构清晰，语言通俗，可用于自学和课堂教学。
+Regional Geography in Practice,Michael Brown,Oxford University Press,9780765804839,Geography,146.82,71,2006-05-08,Useful as a reference book for academic and project work.
+汉语写作：实践版 484,霍春阳,上海译文出版社,9781169104846,Language,63.16,69,2026-01-03,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+英语语法精讲：项目化教程,王晓明,浙江教育出版社,9787926704854,English Learning,147.78,105,2016-02-13,适合大学生、教师及相关从业者阅读。
+Lu Xun Studies：进阶篇,James Clark,Elsevier,9781998504862,Chinese Literature,102.68,36,2001-05-08,Provides structured explanations and practical case studies.
+儿童故事集：理论与实践,胡志强,电子工业出版社,9780616504871,Children,83.65,43,2024-12-22,围绕核心概念展开，配有练习与拓展阅读。
+未来城市：案例教程,谢希仁,浙江教育出版社,9780364604885,Science Fiction,130.51,100,2019-07-10,兼顾理论深度与实际应用，适合项目实践参考。
+Castle Mystery Essentials 489,Martin Fowler,MIT Press,9787387104897,Mystery,46.82,119,2007-07-08,A concise guide for beginners and intermediate learners.
+历史人物评传：从入门到精通,孙立新,译林出版社,9781299104907,Biography,125.81,22,2004-03-31,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+自律与成长：进阶篇,马天宇,北京大学出版社,9781732804913,Self-Help,134.08,52,2001-10-30,兼顾理论深度与实际应用，适合项目实践参考。
+Mental Wellness（第3版）,Cay Horstmann,Packt Publishing,9787241704928,Health,53.29,63,2004-03-06,Provides structured explanations and practical case studies.
+体育运动概论（第2版） 493,马天宇,复旦大学出版社,9781355604938,Sports,155.05,15,1995-02-02,结构清晰，语言通俗，可用于自学和课堂教学。
+烘焙入门,王晓明,北京大学出版社,9787128004943,Cooking,79.94,100,2011-12-20,结合真实案例，强调知识理解与实际操作。
+Climate Change（第2版）,Eric Matthes,Springer,9787730104956,Environment,141.92,21,2006-08-27,"Suitable for students, teachers, and general readers."
+Python编程实践：实践版,霍春阳,中华书局,9787799504964,Programming,61.74,60,2019-11-15,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+数据库系统原理：进阶篇 497,朱雅雯,电子工业出版社,9787754804979,Database,110.28,81,2013-03-27,结构清晰，语言通俗，可用于自学和课堂教学。
+Theory of Computing：进阶篇,Cay Horstmann,Pearson Education,9781263604983,Computer Science,167.0,111,2011-09-04,"Combines theory, examples, and review questions."
+路由与交换技术（第3版）,梁博文,人民邮电出版社,9780539604993,Network,106.22,73,2014-12-04,兼顾理论深度与实际应用，适合项目实践参考。
+Linux系统管理：进阶篇 500,唐朔飞,译林出版社,9787232505008,Operating System,113.03,65,1998-08-07,结合真实案例，强调知识理解与实际操作。
+Natural Language Processing 501,David Wilson,No Starch Press,9781724805010,Artificial Intelligence,112.02,97,2006-05-13,Provides structured explanations and practical case studies.
+统计学习入门（第2版） 502,唐朔飞,机械工业出版社,9787500005025,Data Science,109.97,29,2012-06-07,兼顾理论深度与实际应用，适合项目实践参考。
+软件测试技术：项目化教程,刘洋,中信出版社,9781163105030,Software Engineering,74.15,67,2019-10-31,内容系统，案例丰富，适合作为教材或参考书。
+Secure Software Design：实践版,Peter Norvig,Packt Publishing,9787888805040,Cybersecurity,110.85,34,2024-07-12,Covers fundamental concepts and real-world applications.
+数学建模,王珊,高等教育出版社,9787550605053,Mathematics,63.62,79,2015-03-09,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+热学与统计物理 506,郑文博,化学工业出版社,9780451005069,Physics,75.37,69,2009-06-26,结合真实案例，强调知识理解与实际操作。
+Organic Chemistry（第2版）,Robert Taylor,O'Reilly Media,9781635905076,Chemistry,94.54,9,2025-03-22,A concise guide for beginners and intermediate learners.
+遗传学导论：实践版 508,唐朔飞,复旦大学出版社,9781737205081,Biology,53.08,41,2007-03-16,结构清晰，语言通俗，可用于自学和课堂教学。
+医学基础（第3版）,唐朔飞,人民邮电出版社,9781856305099,Medicine,119.51,75,2013-02-23,兼顾理论深度与实际应用，适合项目实践参考。
+Development Economics Workshop,David Wilson,Penguin Books,9780185005106,Economics,156.93,44,1995-02-23,Useful as a reference book for academic and project work.
+管理学基础：项目化教程,王晓明,中华书局,9787196205112,Management,126.34,103,2011-08-03,适合入门学习与课程实验使用。
+公司理财：实践版,孙立新,人民文学出版社,9780478205121,Finance,118.28,5,2012-08-28,围绕核心概念展开，配有练习与拓展阅读。
+Consumer Behavior Handbook,Ben Forta,CRC Press,9787773405133,Marketing,85.08,18,2008-05-14,"Suitable for students, teachers, and general readers."
+发展心理学,胡志强,浙江教育出版社,9780147105141,Psychology,157.05,39,2019-03-27,内容系统，案例丰富，适合作为教材或参考书。
+教育心理学：项目化教程,梁博文,电子工业出版社,9780861505159,Education,137.04,1,2021-03-31,内容系统，案例丰富，适合作为教材或参考书。
+Modern China Guide,Andrew Tanenbaum,CRC Press,9781111905163,History,107.7,22,2003-12-10,"Combines theory, examples, and review questions."
+西方哲学史：进阶篇,罗佳,作家出版社,9781417105175,Philosophy,78.65,70,2014-08-12,兼顾理论深度与实际应用，适合项目实践参考。
+社会学概论,郭晨,化学工业出版社,9781892405180,Sociology,106.64,113,2002-02-15,围绕核心概念展开，配有练习与拓展阅读。
+Introduction to Law in Practice 519,Jennifer Anderson,Pearson Education,9781338605198,Law,61.83,61,2000-01-25,Covers fundamental concepts and real-world applications.
+国际关系导论,刘遄,中信出版社,9787493705209,Politics,95.32,34,2016-08-27,结合真实案例，强调知识理解与实际操作。
+短篇小说选读（第3版） 521,郭晨,北京大学出版社,9787185105218,Literature,66.8,32,1995-02-23,围绕核心概念展开，配有练习与拓展阅读。
+Modern Poetry（第2版）,Emily Johnson,Cambridge University Press,9787889605229,Poetry,41.48,19,2016-08-02,A practical introduction with clear examples and exercises.
+博物馆艺术导览：项目化教程 523,黄静,法律出版社,9787534505232,Art,126.44,85,2009-12-03,内容系统，案例丰富，适合作为教材或参考书。
+古典音乐导读：进阶篇,孙立新,人民文学出版社,9781596505247,Music,50.38,31,1997-07-02,围绕核心概念展开，配有练习与拓展阅读。
+Design Basics Guide,Andrew Tanenbaum,Elsevier,9780201505252,Design,48.92,113,1998-05-24,"Suitable for students, teachers, and general readers."
+建筑设计基础：基础篇 526,梁博文,浙江教育出版社,9780818505263,Architecture,188.25,11,2004-11-05,结合真实案例，强调知识理解与实际操作。
+背包旅行手册：实践版,朱雅雯,清华大学出版社,9787426405275,Travel,79.32,81,2003-12-02,结构清晰，语言通俗，可用于自学和课堂教学。
+Cartography in Practice,Stuart Russell,Cambridge University Press,9781804405284,Geography,144.37,91,2014-06-06,Provides structured explanations and practical case studies.
+应用语言学（第3版）,郑文博,作家出版社,9781782205296,Language,151.99,108,2002-11-23,兼顾理论深度与实际应用，适合项目实践参考。
+英语语法精讲：项目化教程 530,何嘉宁,化学工业出版社,9787568505307,English Learning,127.89,104,2016-12-07,结合真实案例，强调知识理解与实际操作。
+Dream of the Red Chamber in Practice,Andrew Tanenbaum,CRC Press,9780352105318,Chinese Literature,76.64,112,2009-06-30,Useful as a reference book for academic and project work.
+童话故事（第3版） 532,吴雨桐,中国人民大学出版社,9781783505326,Children,84.13,38,2022-02-04,结合真实案例，强调知识理解与实际操作。
+星际远航：从入门到精通 533,周志华,北京大学出版社,9781908405333,Science Fiction,53.61,2,2008-02-26,适合大学生、教师及相关从业者阅读。
+The Last Witness（第2版） 534,Craig Walls,Random House,9780863605345,Mystery,139.14,95,2022-09-01,Provides structured explanations and practical case studies.
+企业家成长史：理论与实践,张伟,高等教育出版社,9781796605358,Biography,133.46,27,1997-03-25,适合大学生、教师及相关从业者阅读。
+思维训练：项目化教程,何嘉宁,机械工业出版社,9780496905362,Self-Help,67.48,25,1995-02-02,内容系统，案例丰富，适合作为教材或参考书。
+Sleep Management（第2版）,Craig Walls,O'Reilly Media,9781848405370,Health,111.47,65,1998-10-09,Provides structured explanations and practical case studies.
+足球战术分析：案例教程,王珊,人民文学出版社,9787839805389,Sports,97.92,71,2011-09-24,适合入门学习与课程实验使用。
+营养早餐（第2版）,高云,复旦大学出版社,9781502105394,Cooking,61.73,8,2017-12-12,结合真实案例，强调知识理解与实际操作。
+Green Living Essentials,Joshua Bloch,Random House,9787857405400,Environment,46.66,3,1997-10-09,"Suitable for students, teachers, and general readers."
+Spring Boot开发实战（第3版）,刘洋,作家出版社,9780655805410,Programming,87.55,56,2012-12-09,结构清晰，语言通俗，可用于自学和课堂教学。
+数据仓库技术：项目化教程 542,赵明轩,作家出版社,9780645305425,Database,54.83,29,2026-05-05,适合大学生、教师及相关从业者阅读。
+Introduction to Computer Science（第3版）,Ben Forta,Wiley,9787568105439,Computer Science,77.71,9,2018-02-23,"Combines theory, examples, and review questions."
+网络工程实践：实践版,何嘉宁,高等教育出版社,9780781705448,Network,96.47,14,2004-04-11,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+进程与线程：基础篇,张海藩,浙江教育出版社,9781907605451,Operating System,147.16,32,2012-07-31,内容系统，案例丰富，适合作为教材或参考书。
+Artificial Intelligence Basics：实践版,Michael Brown,Penguin Books,9780250605460,Artificial Intelligence,112.28,26,2018-04-12,Provides structured explanations and practical case studies.
+大数据技术基础：项目化教程,马天宇,上海译文出版社,9780992505479,Data Science,107.57,24,2015-06-18,结构清晰，语言通俗，可用于自学和课堂教学。
+敏捷开发方法（第3版）,朱雅雯,作家出版社,9781513605487,Software Engineering,126.03,59,2007-03-11,结构清晰，语言通俗，可用于自学和课堂教学。
+Secure Software Design Guide 549,Daniel Martin,Wiley,9787187305494,Cybersecurity,98.31,74,1997-06-28,"Suitable for students, teachers, and general readers."
+数学建模：理论与实践,马天宇,中国轻工业出版社,9781998105502,Mathematics,41.69,53,2022-04-26,适合入门学习与课程实验使用。
+量子力学导论（第2版）,胡志强,北京大学出版社,9780897705516,Physics,99.52,116,2014-11-25,结构清晰，语言通俗，可用于自学和课堂教学。
+Materials Chemistry Handbook,Robert C. Martin,Packt Publishing,9781377605524,Chemistry,72.46,48,2018-04-06,Useful as a reference book for academic and project work.
+生命科学概论,罗佳,电子工业出版社,9780801105531,Biology,94.65,101,2025-01-07,适合大学生、教师及相关从业者阅读。
+人体解剖学：案例教程,霍春阳,北京大学出版社,9780909605544,Medicine,154.35,89,1997-04-18,适合入门学习与课程实验使用。
+International Trade：进阶篇 555,Robert Taylor,Pearson Education,9780260505552,Economics,132.01,16,2017-12-16,Designed for classroom learning and self-study.
+管理学基础（第3版） 556,霍春阳,中信出版社,9780975005569,Management,79.43,96,2020-06-12,适合大学生、教师及相关从业者阅读。
+风险管理：理论与实践,唐朔飞,复旦大学出版社,9781240505579,Finance,51.72,102,2010-04-04,围绕核心概念展开，配有练习与拓展阅读。
+Brand Strategy,Stuart Russell,Springer,9787995105583,Marketing,150.3,0,1997-03-19,"Combines theory, examples, and review questions."
+发展心理学：项目化教程,黄静,上海译文出版社,9787575805599,Psychology,145.86,83,1999-07-06,结合真实案例，强调知识理解与实际操作。
+现代教育技术：实践版 560,唐朔飞,浙江教育出版社,9787556405602,Education,41.86,2,2016-10-20,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Historical Research Workshop,Daniel Martin,CRC Press,9787194405613,History,82.99,87,1998-05-24,"Suitable for students, teachers, and general readers."
+伦理学基础（第2版）,严蔚敏,法律出版社,9780136005629,Philosophy,46.53,17,2012-08-15,结合真实案例，强调知识理解与实际操作。
+家庭社会学（第3版）,李华,复旦大学出版社,9780904805635,Sociology,96.99,13,2011-02-05,结构清晰，语言通俗，可用于自学和课堂教学。
+Civil Law in Practice,James Clark,HarperCollins,9780918105646,Law,63.7,82,1996-05-30,A practical introduction with clear examples and exercises.
+比较政治学：理论与实践,陈思远,译林出版社,9781469205656,Politics,154.59,93,2016-12-16,适合大学生、教师及相关从业者阅读。
+世界文学名著导读：理论与实践,王珊,化学工业出版社,9787278905664,Literature,147.23,8,2012-02-14,结合真实案例，强调知识理解与实际操作。
+Selected Poems：案例教程,John Smith,Elsevier,9781409005674,Poetry,40.44,115,2008-07-14,"Combines theory, examples, and review questions."
+博物馆艺术导览（第2版）,张伟,译林出版社,9781612905686,Art,170.54,16,2014-01-08,结构清晰，语言通俗，可用于自学和课堂教学。
+西方音乐史：案例教程,罗佳,法律出版社,9787197105695,Music,86.36,113,2000-03-09,结合真实案例，强调知识理解与实际操作。
+Graphic Design：进阶篇,Daniel Martin,Random House,9781396805707,Design,78.37,17,2013-06-10,A practical introduction with clear examples and exercises.
+中外建筑史：理论与实践 571,张伟,复旦大学出版社,9780596405717,Architecture,97.8,84,2017-10-09,结合真实案例，强调知识理解与实际操作。
+中国自助游：实践版,郭晨,电子工业出版社,9787228005727,Travel,75.73,95,2016-02-01,内容系统，案例丰富，适合作为教材或参考书。
+Regional Geography 573,Robert C. Martin,Elsevier,9780173205730,Geography,147.97,119,2003-05-22,A practical introduction with clear examples and exercises.
+应用语言学：基础篇 574,陈思远,译林出版社,9787779605742,Language,116.84,101,2001-04-19,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+大学英语阅读：基础篇,朱雅雯,译林出版社,9781265405755,English Learning,157.41,19,2001-09-30,适合大学生、教师及相关从业者阅读。
+History of Chinese Fiction：实践版 576,Cay Horstmann,Cambridge University Press,9787665305763,Chinese Literature,66.55,97,2000-02-14,Provides structured explanations and practical case studies.
+童话故事（第2版）,王珊,中国轻工业出版社,9781929705771,Children,32.8,103,2009-12-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+星际远航：理论与实践,王晓明,科学出版社,9787649005788,Science Fiction,113.3,47,1995-10-12,内容系统，案例丰富，适合作为教材或参考书。
+The Midnight Case（第2版） 579,Jennifer Anderson,Packt Publishing,9780874205794,Mystery,118.23,12,2012-12-29,A practical introduction with clear examples and exercises.
+企业家成长史,陈思远,高等教育出版社,9781332505807,Biography,156.25,65,1998-04-06,结合真实案例，强调知识理解与实际操作。
+思维训练：从入门到精通,何嘉宁,电子工业出版社,9781547105816,Self-Help,144.75,119,2001-03-11,兼顾理论深度与实际应用，适合项目实践参考。
+Nutrition Basics Workshop,Thomas Moore,Penguin Books,9787727105829,Health,106.8,40,2010-10-24,"Combines theory, examples, and review questions."
+体育运动概论：基础篇,王珊,中信出版社,9780954305833,Sports,92.21,53,2014-07-08,兼顾理论深度与实际应用，适合项目实践参考。
+世界美食地图：理论与实践,林海峰,电子工业出版社,9781912705849,Cooking,74.19,112,2010-01-28,围绕核心概念展开，配有练习与拓展阅读。
+Climate Change Handbook,Joshua Bloch,Manning Publications,9781678405854,Environment,78.55,75,2022-03-12,A concise guide for beginners and intermediate learners.
+Web全栈开发（第3版）,梁博文,机械工业出版社,9781191805865,Programming,157.15,86,2016-07-29,结合真实案例，强调知识理解与实际操作。
+MySQL应用教程：案例教程,孙立新,法律出版社,9781192505870,Database,53.72,17,2016-06-13,适合大学生、教师及相关从业者阅读。
+Computer Architecture：案例教程,Laura Miller,Manning Publications,9781470905880,Computer Science,133.65,11,2001-08-02,Useful as a reference book for academic and project work.
+路由与交换技术：案例教程,张海藩,商务印书馆,9787609705895,Network,132.47,94,1999-01-14,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+操作系统原理：从入门到精通,郑文博,科学出版社,9780621105902,Operating System,92.63,101,2011-03-14,结合真实案例，强调知识理解与实际操作。
+AI for Everyone（第3版）,Andrew Tanenbaum,Packt Publishing,9787244405914,Artificial Intelligence,154.1,84,2000-11-17,"Combines theory, examples, and review questions."
+数据可视化：从入门到精通,郭晨,中国人民大学出版社,9780203505922,Data Science,41.06,64,2009-07-18,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+软件测试技术：进阶篇,王珊,人民邮电出版社,9780254405936,Software Engineering,124.98,19,2010-10-15,适合入门学习与课程实验使用。
+Secure Software Design Workshop,Ben Forta,Elsevier,9787120505943,Cybersecurity,50.23,22,2014-02-09,Designed for classroom learning and self-study.
+概率论与数理统计：案例教程,霍春阳,法律出版社,9781169705951,Mathematics,144.75,117,2010-07-13,结合真实案例，强调知识理解与实际操作。
+大学物理：案例教程,高云,中华书局,9787327105960,Physics,128.24,68,2019-02-02,围绕核心概念展开，配有练习与拓展阅读。
+General Chemistry：进阶篇,Thomas Moore,Elsevier,9780908805976,Chemistry,155.53,91,2015-07-31,Covers fundamental concepts and real-world applications.
+普通生物学：实践版,陈思远,高等教育出版社,9787329005985,Biology,135.58,50,1995-06-23,结构清晰，语言通俗，可用于自学和课堂教学。
+医学基础：案例教程,郭晨,清华大学出版社,9780739405994,Medicine,137.88,25,2003-11-21,内容系统，案例丰富，适合作为教材或参考书。
+International Trade Guide,Michael Brown,No Starch Press,9780781506007,Economics,111.54,27,2004-03-20,Designed for classroom learning and self-study.
+战略管理：项目化教程,林海峰,高等教育出版社,9781299106017,Management,114.0,103,2023-07-05,兼顾理论深度与实际应用，适合项目实践参考。
+金融学导论（第3版）,张伟,译林出版社,9780285106024,Finance,142.07,88,2023-05-01,兼顾理论深度与实际应用，适合项目实践参考。
+Digital Marketing（第2版） 603,Robert Taylor,No Starch Press,9780889706033,Marketing,61.61,61,2005-09-06,A practical introduction with clear examples and exercises.
+社会心理学：从入门到精通,刘洋,人民邮电出版社,9781447006046,Psychology,43.24,65,2017-06-11,适合大学生、教师及相关从业者阅读。
+教育学原理（第3版）,谢希仁,复旦大学出版社,9781903506059,Education,61.88,16,2018-10-11,兼顾理论深度与实际应用，适合项目实践参考。
+European Civilization：案例教程,Andrew Tanenbaum,Penguin Books,9787338206069,History,134.02,4,2005-03-04,Designed for classroom learning and self-study.
+中国哲学简史：从入门到精通,周子涵,清华大学出版社,9787123506077,Philosophy,130.41,0,2015-06-29,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+城市社会学：理论与实践,周子涵,化学工业出版社,9787619206085,Sociology,144.29,96,2024-09-05,内容系统，案例丰富，适合作为教材或参考书。
+Civil Law（第2版）,Peter Norvig,Elsevier,9781189606092,Law,103.03,3,2012-10-24,Designed for classroom learning and self-study.
+行政管理学（第2版）,高云,清华大学出版社,9780241206102,Politics,157.69,93,2000-01-31,结构清晰，语言通俗，可用于自学和课堂教学。
+短篇小说选读：理论与实践,周志华,机械工业出版社,9787151906115,Literature,78.01,30,2021-07-21,适合大学生、教师及相关从业者阅读。
+World Poetry,Nancy White,No Starch Press,9787596406126,Poetry,86.17,3,2009-08-02,"Suitable for students, teachers, and general readers."
+中国绘画史：理论与实践,胡志强,化学工业出版社,9787824106132,Art,75.91,47,2006-08-29,兼顾理论深度与实际应用，适合项目实践参考。
+中国民族音乐（第2版）,周子涵,商务印书馆,9780756306144,Music,125.32,107,1995-03-08,兼顾理论深度与实际应用，适合项目实践参考。
+User Experience Design（第2版）,Nancy White,CRC Press,9780351506154,Design,63.97,28,1996-09-09,Designed for classroom learning and self-study.
+室内设计：实践版 616,郑文博,北京大学出版社,9781490406169,Architecture,108.19,108,2007-07-10,兼顾理论深度与实际应用，适合项目实践参考。
+背包旅行手册（第2版）,周志华,上海译文出版社,9787397106171,Travel,71.95,16,2022-10-11,兼顾理论深度与实际应用，适合项目实践参考。
+Human Geography（第2版）,Eric Matthes,Oxford University Press,9781387606184,Geography,136.13,90,2025-06-10,Provides structured explanations and practical case studies.
+跨文化交际：进阶篇,霍春阳,上海译文出版社,9787812906195,Language,59.35,112,2014-01-08,结构清晰，语言通俗，可用于自学和课堂教学。
+英语语法精讲 620,郭晨,化学工业出版社,9787885506209,English Learning,51.64,56,2004-03-29,围绕核心概念展开，配有练习与拓展阅读。
+Modern Chinese Literature（第3版）,Ben Forta,Random House,9781111106218,Chinese Literature,111.27,59,1995-06-02,"Combines theory, examples, and review questions."
+少儿百科全书：理论与实践 622,马天宇,化学工业出版社,9787376906228,Children,67.82,17,2002-07-02,兼顾理论深度与实际应用，适合项目实践参考。
+星际远航：实践版 623,赵明轩,科学出版社,9780386206234,Science Fiction,128.52,15,2006-04-19,适合入门学习与课程实验使用。
+Castle Mystery Workshop,Robert C. Martin,Manning Publications,9780590406246,Mystery,113.02,101,2007-10-09,A concise guide for beginners and intermediate learners.
+企业家成长史：实践版,陈思远,商务印书馆,9780632006250,Biography,36.41,13,2025-07-09,内容系统，案例丰富，适合作为教材或参考书。
+自律与成长（第2版）,高云,电子工业出版社,9781149206263,Self-Help,58.7,37,2024-12-08,兼顾理论深度与实际应用，适合项目实践参考。
+Exercise and Health：案例教程 627,Martin Fowler,HarperCollins,9787387506271,Health,113.78,4,2000-07-06,A practical introduction with clear examples and exercises.
+体育运动概论：基础篇 628,高云,人民邮电出版社,9787939806286,Sports,132.01,75,2010-02-16,围绕核心概念展开，配有练习与拓展阅读。
+世界美食地图：理论与实践 629,高云,译林出版社,9787465006297,Cooking,25.42,49,2012-10-14,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Climate Change：基础篇,Thomas Moore,O'Reilly Media,9781361506301,Environment,117.64,18,2005-11-28,"Combines theory, examples, and review questions."
+Web全栈开发（第2版）,马天宇,化学工业出版社,9780976106319,Programming,124.71,3,2019-01-19,围绕核心概念展开，配有练习与拓展阅读。
+MySQL应用教程：进阶篇,吴雨桐,电子工业出版社,9780939806324,Database,149.27,120,2021-05-06,适合入门学习与课程实验使用。
+Introduction to Computer Science in Practice,Craig Walls,Wiley,9780927406338,Computer Science,94.55,32,2013-02-01,A practical introduction with clear examples and exercises.
+网络工程实践：案例教程 634,吴雨桐,法律出版社,9780181606345,Network,126.57,37,2005-03-22,内容系统，案例丰富，适合作为教材或参考书。
+进程与线程：从入门到精通,刘洋,上海译文出版社,9781333506353,Operating System,132.53,0,2002-05-07,兼顾理论深度与实际应用，适合项目实践参考。
+Natural Language Processing（第3版）,Sarah Davis,Penguin Books,9780349706368,Artificial Intelligence,86.01,78,2011-10-09,A concise guide for beginners and intermediate learners.
+数据可视化：理论与实践,梁博文,中国轻工业出版社,9787980506371,Data Science,40.63,108,2008-01-31,结构清晰，语言通俗，可用于自学和课堂教学。
+敏捷开发方法（第2版）,罗佳,中国人民大学出版社,9781993906388,Software Engineering,95.36,105,2024-04-25,围绕核心概念展开，配有练习与拓展阅读。
+Information Security in Practice,Martin Fowler,McGraw-Hill Education,9781212106391,Cybersecurity,70.74,32,2012-10-30,Covers fundamental concepts and real-world applications.
+概率论与数理统计：项目化教程,周子涵,法律出版社,9780578206400,Mathematics,128.2,13,2023-12-08,兼顾理论深度与实际应用，适合项目实践参考。
+电磁学基础（第3版）,马天宇,译林出版社,9781153506410,Physics,96.15,54,2007-02-07,围绕核心概念展开，配有练习与拓展阅读。
+Analytical Chemistry in Practice,Eric Matthes,Elsevier,9781101706428,Chemistry,35.37,48,2024-05-09,"Combines theory, examples, and review questions."
+普通生物学 643,吴雨桐,中华书局,9787979906434,Biology,37.15,76,2022-04-01,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+临床医学概论,何嘉宁,译林出版社,9781703906448,Medicine,134.0,10,1998-03-05,结合真实案例，强调知识理解与实际操作。
+Principles of Economics：实践版,Stuart Russell,McGraw-Hill Education,9787410806453,Economics,68.61,93,2000-04-29,A concise guide for beginners and intermediate learners.
+人力资源管理（第3版）,周志华,科学出版社,9780756306465,Management,145.55,78,2025-08-08,结合真实案例，强调知识理解与实际操作。
+公司理财（第3版）,王珊,作家出版社,9780908006472,Finance,137.48,18,2007-03-04,适合大学生、教师及相关从业者阅读。
+Brand Strategy Guide,Joshua Bloch,Penguin Books,9787156106480,Marketing,55.18,40,2000-06-01,A practical introduction with clear examples and exercises.
+社会心理学：项目化教程,谢希仁,中华书局,9787704306492,Psychology,36.2,81,2012-11-11,结构清晰，语言通俗，可用于自学和课堂教学。
+班级管理（第3版） 650,梁博文,电子工业出版社,9780686506508,Education,143.86,60,1999-04-26,兼顾理论深度与实际应用，适合项目实践参考。
+World History（第3版） 651,David Wilson,O'Reilly Media,9787295506516,History,135.43,107,2018-06-28,Covers fundamental concepts and real-world applications.
+逻辑学教程（第3版）,罗佳,化学工业出版社,9787886006524,Philosophy,80.13,60,1995-03-24,结构清晰，语言通俗，可用于自学和课堂教学。
+家庭社会学,罗佳,复旦大学出版社,9787973106533,Sociology,38.09,15,2026-04-30,内容系统，案例丰富，适合作为教材或参考书。
+Civil Law Essentials,John Smith,Random House,9787784906544,Law,116.43,25,2010-10-19,Provides structured explanations and practical case studies.
+比较政治学：项目化教程,王珊,中信出版社,9787841006552,Politics,138.8,98,2003-11-03,结合真实案例，强调知识理解与实际操作。
+文学理论基础（第2版）,胡志强,浙江教育出版社,9781526206565,Literature,41.44,58,2018-12-12,适合入门学习与课程实验使用。
+Selected Poems（第3版）,Cay Horstmann,Oxford University Press,9787767506570,Poetry,58.06,47,2019-03-18,Covers fundamental concepts and real-world applications.
+中国绘画史：基础篇,朱雅雯,化学工业出版社,9780338306586,Art,179.13,119,2001-02-19,结构清晰，语言通俗，可用于自学和课堂教学。
+中国民族音乐：案例教程 659,郭晨,化学工业出版社,9781463006594,Music,152.13,83,2012-07-17,结构清晰，语言通俗，可用于自学和课堂教学。
+User Experience Design Essentials 660,Thomas Moore,Wiley,9781822606601,Design,96.95,86,2008-08-14,"Combines theory, examples, and review questions."
+城市规划导论：从入门到精通,马天宇,作家出版社,9781537106618,Architecture,194.16,115,2021-01-27,兼顾理论深度与实际应用，适合项目实践参考。
+旅行摄影：理论与实践,唐朔飞,中信出版社,9780538206624,Travel,68.87,40,2023-06-27,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Geographic Information Systems Handbook,James Clark,McGraw-Hill Education,9780458906635,Geography,53.16,26,1999-01-04,Useful as a reference book for academic and project work.
+汉语写作：实践版 664,朱雅雯,人民邮电出版社,9787805906645,Language,105.85,55,2020-01-29,兼顾理论深度与实际应用，适合项目实践参考。
+雅思词汇,梁博文,中国人民大学出版社,9781867506652,English Learning,156.47,23,2011-10-15,结合真实案例，强调知识理解与实际操作。
+History of Chinese Fiction Essentials,Emily Johnson,Penguin Books,9787166806660,Chinese Literature,45.78,78,2012-03-17,Designed for classroom learning and self-study.
+儿童故事集：项目化教程 667,高云,高等教育出版社,9787317306674,Children,25.59,22,2021-04-21,内容系统，案例丰富，适合作为教材或参考书。
+机器人纪元：理论与实践,赵明轩,人民邮电出版社,9781656906687,Science Fiction,89.28,15,2002-09-07,围绕核心概念展开，配有练习与拓展阅读。
+The Missing File：基础篇,Ben Forta,Springer,9781426106699,Mystery,66.84,112,2016-01-16,"Suitable for students, teachers, and general readers."
+名人传记：理论与实践 670,孙立新,商务印书馆,9781658706704,Biography,72.86,9,2003-12-17,内容系统，案例丰富，适合作为教材或参考书。
+自律与成长：案例教程,谢希仁,浙江教育出版社,9781246406719,Self-Help,45.79,73,2013-09-02,适合大学生、教师及相关从业者阅读。
+Exercise and Health：基础篇,Thomas Moore,Penguin Books,9781133806721,Health,41.86,55,2004-07-11,"Suitable for students, teachers, and general readers."
+足球战术分析：从入门到精通,胡志强,中华书局,9787500706731,Sports,148.91,3,2020-09-13,结合真实案例，强调知识理解与实际操作。
+营养早餐：案例教程 674,陈思远,商务印书馆,9780251406745,Cooking,36.76,104,2014-02-26,结构清晰，语言通俗，可用于自学和课堂教学。
+Sustainable Development Workshop,Jennifer Anderson,MIT Press,9787974006757,Environment,151.21,17,2017-02-18,Provides structured explanations and practical case studies.
+C语言程序设计：从入门到精通,何嘉宁,译林出版社,9780763006761,Programming,69.04,84,2002-03-16,结构清晰，语言通俗，可用于自学和课堂教学。
+Redis设计实践：进阶篇,李华,中国人民大学出版社,9781114506770,Database,106.29,83,1997-10-06,适合大学生、教师及相关从业者阅读。
+Algorithms and Structures in Practice,Joshua Bloch,Springer,9780319106785,Computer Science,144.11,1,1998-01-24,"Combines theory, examples, and review questions."
+网络工程实践（第3版）,黄静,作家出版社,9780956106797,Network,91.78,73,2003-10-26,兼顾理论深度与实际应用，适合项目实践参考。
+内核设计基础：项目化教程,张海藩,作家出版社,9787346406802,Operating System,66.7,62,2009-02-17,围绕核心概念展开，配有练习与拓展阅读。
+Artificial Intelligence Basics,David Wilson,MIT Press,9781817806818,Artificial Intelligence,114.71,116,2012-02-26,Useful as a reference book for academic and project work.
+商业数据分析：实践版,赵明轩,中国轻工业出版社,9780411206826,Data Science,71.83,53,2000-02-01,内容系统，案例丰富，适合作为教材或参考书。
+软件工程导论：从入门到精通,王晓明,人民文学出版社,9780351006838,Software Engineering,114.49,100,2000-10-07,适合大学生、教师及相关从业者阅读。
+Penetration Testing Basics Guide,John Smith,HarperCollins,9787713006840,Cybersecurity,142.79,110,2009-06-28,Designed for classroom learning and self-study.
+线性代数：项目化教程,黄静,人民文学出版社,9781221406857,Mathematics,105.25,14,2005-12-24,结构清晰，语言通俗，可用于自学和课堂教学。
+量子力学导论,李华,电子工业出版社,9780521506861,Physics,116.12,95,2006-06-19,内容系统，案例丰富，适合作为教材或参考书。
+Chemistry Lab Manual in Practice,James Clark,Manning Publications,9781338106879,Chemistry,148.18,40,2013-12-17,"Combines theory, examples, and review questions."
+分子生物学：进阶篇,何嘉宁,人民邮电出版社,9787653006887,Biology,108.21,117,1995-07-28,兼顾理论深度与实际应用，适合项目实践参考。
+人体解剖学：实践版,谢希仁,北京大学出版社,9780752606897,Medicine,87.6,99,2025-08-04,适合入门学习与课程实验使用。
+Principles of Economics in Practice,Stuart Russell,Cambridge University Press,9781306006903,Economics,127.06,21,2020-10-17,A practical introduction with clear examples and exercises.
+组织行为学：实践版,陈思远,中华书局,9781662906916,Management,129.69,113,2018-06-28,围绕核心概念展开，配有练习与拓展阅读。
+证券市场分析：案例教程,刘遄,商务印书馆,9781355306924,Finance,145.98,23,2013-02-03,结合真实案例，强调知识理解与实际操作。
+Marketing Management 693,Nancy White,Pearson Education,9787768306933,Marketing,121.21,5,2015-05-13,Covers fundamental concepts and real-world applications.
+心理学导论：案例教程,周子涵,中华书局,9781448706945,Psychology,144.96,57,1997-08-04,结合真实案例，强调知识理解与实际操作。
+现代教育技术,严蔚敏,浙江教育出版社,9781514506950,Education,84.2,87,1999-06-04,结构清晰，语言通俗，可用于自学和课堂教学。
+Ancient Societies：进阶篇,Nancy White,Manning Publications,9780504206962,History,55.99,4,2024-05-11,Designed for classroom learning and self-study.
+伦理学基础：进阶篇 697,陈思远,北京大学出版社,9787410706975,Philosophy,64.96,102,2011-04-07,适合大学生、教师及相关从业者阅读。
+社会学概论：进阶篇 698,郭晨,高等教育出版社,9781143106989,Sociology,64.23,45,2002-12-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Civil Law：实践版,Martin Fowler,Cambridge University Press,9787327706990,Law,143.53,87,2016-03-29,A practical introduction with clear examples and exercises.
+国际关系导论：理论与实践 700,何嘉宁,中华书局,9780450207006,Politics,108.03,111,2001-06-21,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+短篇小说选读：进阶篇,周志华,中国人民大学出版社,9780267707010,Literature,88.59,86,2014-09-01,适合大学生、教师及相关从业者阅读。
+Classical Verse（第2版）,Stuart Russell,McGraw-Hill Education,9787708207023,Poetry,70.92,29,1995-11-10,A practical introduction with clear examples and exercises.
+艺术概论：案例教程,黄静,科学出版社,9780480907037,Art,94.42,89,2020-11-28,围绕核心概念展开，配有练习与拓展阅读。
+乐理基础：进阶篇,高云,电子工业出版社,9787305007040,Music,77.89,85,2002-05-31,内容系统，案例丰富，适合作为教材或参考书。
+User Experience Design（第3版）,Thomas Moore,Oxford University Press,9780202307053,Design,39.2,28,2018-04-24,Covers fundamental concepts and real-world applications.
+中外建筑史：进阶篇,朱雅雯,商务印书馆,9781733807067,Architecture,71.5,51,2003-05-09,结合真实案例，强调知识理解与实际操作。
+中国自助游：项目化教程 707,何嘉宁,中国轻工业出版社,9787658807076,Travel,46.05,97,2013-09-11,适合大学生、教师及相关从业者阅读。
+Geographic Information Systems（第2版）,Craig Walls,HarperCollins,9781892507082,Geography,137.92,55,2025-11-14,Useful as a reference book for academic and project work.
+语言学概论：基础篇,黄静,电子工业出版社,9787978407093,Language,40.22,106,1996-01-07,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+商务英语,郭晨,化学工业出版社,9781548007102,English Learning,113.29,8,2014-06-02,结构清晰，语言通俗，可用于自学和课堂教学。
+Lu Xun Studies：案例教程 711,Martin Fowler,Manning Publications,9787944707110,Chinese Literature,41.5,67,2010-03-12,Covers fundamental concepts and real-world applications.
+儿童成长绘本：案例教程 712,周志华,高等教育出版社,9787400307120,Children,34.05,55,2022-10-13,结合真实案例，强调知识理解与实际操作。
+星际远航：案例教程,何嘉宁,机械工业出版社,9780129707134,Science Fiction,84.64,54,2016-11-17,围绕核心概念展开，配有练习与拓展阅读。
+The Last Witness（第3版）,Ben Forta,Cambridge University Press,9781892807144,Mystery,35.6,116,1998-09-09,A concise guide for beginners and intermediate learners.
+历史人物评传：进阶篇,王晓明,浙江教育出版社,9780499907158,Biography,103.91,91,2004-09-17,围绕核心概念展开，配有练习与拓展阅读。
+沟通的艺术（第3版）,陈思远,清华大学出版社,9781929807161,Self-Help,80.37,99,2017-10-12,适合入门学习与课程实验使用。
+Exercise and Health：案例教程 717,Cay Horstmann,CRC Press,9781467507172,Health,59.44,80,1998-11-22,Useful as a reference book for academic and project work.
+游泳入门：实践版,孙立新,北京大学出版社,9781644507186,Sports,142.31,18,2000-12-07,适合大学生、教师及相关从业者阅读。
+营养早餐（第3版）,张伟,中国人民大学出版社,9781139707190,Cooking,27.0,6,1996-07-31,结构清晰，语言通俗，可用于自学和课堂教学。
+Ecological Protection（第2版） 720,Nancy White,McGraw-Hill Education,9781781907207,Environment,68.07,83,2017-03-14,A practical introduction with clear examples and exercises.
+C语言程序设计：从入门到精通 721,林海峰,中信出版社,9787541307218,Programming,149.22,30,2012-09-20,围绕核心概念展开，配有练习与拓展阅读。
+数据库系统原理（第2版）,陈思远,人民邮电出版社,9780211007227,Database,41.93,17,2001-08-26,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Algorithms and Structures：基础篇,Jennifer Anderson,Packt Publishing,9781786207234,Computer Science,102.09,8,2001-03-05,Designed for classroom learning and self-study.
+TCP/IP详解（第3版） 724,郑文博,机械工业出版社,9787595307240,Network,144.43,14,2014-05-27,结合真实案例，强调知识理解与实际操作。
+Linux系统管理：进阶篇 725,谢希仁,作家出版社,9781920607258,Operating System,153.04,64,2008-01-14,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Natural Language Processing（第2版）,Laura Miller,Random House,9787263807263,Artificial Intelligence,163.29,3,2006-05-10,Useful as a reference book for academic and project work.
+商业数据分析：进阶篇 727,何嘉宁,北京大学出版社,9780454707274,Data Science,89.04,94,2006-02-25,兼顾理论深度与实际应用，适合项目实践参考。
+系统设计案例：实践版,刘遄,清华大学出版社,9781197207281,Software Engineering,52.5,58,2005-10-14,结构清晰，语言通俗，可用于自学和课堂教学。
+Applied Cryptography：案例教程,Jennifer Anderson,HarperCollins,9780937107294,Cybersecurity,109.68,26,2020-10-06,"Combines theory, examples, and review questions."
+高等数学：理论与实践,唐朔飞,北京大学出版社,9787479207307,Mathematics,101.43,84,2014-08-19,适合入门学习与课程实验使用。
+电磁学基础：进阶篇,张海藩,清华大学出版社,9787458507312,Physics,129.72,22,1995-09-30,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Materials Chemistry Essentials,David Wilson,Cambridge University Press,9787490107327,Chemistry,136.71,7,2015-07-21,Covers fundamental concepts and real-world applications.
+生态学基础（第3版）,郑文博,人民邮电出版社,9781689407335,Biology,108.73,63,2011-10-14,结构清晰，语言通俗，可用于自学和课堂教学。
+医学基础：理论与实践 734,朱雅雯,人民文学出版社,9781571107343,Medicine,177.68,4,2014-01-14,结构清晰，语言通俗，可用于自学和课堂教学。
+Development Economics：案例教程,Stuart Russell,Penguin Books,9781384807355,Economics,142.8,35,2013-06-05,A practical introduction with clear examples and exercises.
+项目管理实践：理论与实践,黄静,高等教育出版社,9780490807365,Management,68.3,18,2001-11-12,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+金融学导论：从入门到精通,李华,北京大学出版社,9781102707370,Finance,51.69,40,2011-04-09,兼顾理论深度与实际应用，适合项目实践参考。
+Marketing Management：案例教程,Sarah Davis,Pearson Education,9781922407382,Marketing,103.6,97,1998-08-18,Designed for classroom learning and self-study.
+发展心理学：项目化教程 739,吴雨桐,电子工业出版社,9781116007398,Psychology,150.86,52,2006-07-13,适合入门学习与课程实验使用。
+课程与教学论：基础篇,黄静,北京大学出版社,9780981907406,Education,102.57,61,2024-01-26,内容系统，案例丰富，适合作为教材或参考书。
+World History：案例教程,Eric Matthes,MIT Press,9780109207418,History,38.08,21,2018-03-11,Covers fundamental concepts and real-world applications.
+西方哲学史：从入门到精通,唐朔飞,上海译文出版社,9781680407426,Philosophy,130.27,93,2025-08-20,结合真实案例，强调知识理解与实际操作。
+社会调查方法：案例教程,孙立新,作家出版社,9781321207439,Sociology,65.81,109,1999-11-30,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Intellectual Property Law（第3版）,Nancy White,O'Reilly Media,9781613207444,Law,97.06,65,2009-03-11,Provides structured explanations and practical case studies.
+比较政治学：案例教程,朱雅雯,北京大学出版社,9787372907458,Politics,101.21,46,2011-08-10,适合入门学习与课程实验使用。
+文学理论基础（第3版）,唐朔飞,商务印书馆,9787765407466,Literature,78.23,61,2012-06-05,围绕核心概念展开，配有练习与拓展阅读。
+Classical Verse in Practice,Cay Horstmann,Penguin Books,9781824307476,Poetry,47.08,8,2026-04-16,"Suitable for students, teachers, and general readers."
+西方美术史,何嘉宁,作家出版社,9787675607482,Art,157.88,77,2003-03-30,结构清晰，语言通俗，可用于自学和课堂教学。
+音乐欣赏：实践版,吴雨桐,人民文学出版社,9787403607494,Music,35.6,7,1996-03-27,内容系统，案例丰富，适合作为教材或参考书。
+Design Basics（第3版）,David Wilson,No Starch Press,9787301407509,Design,57.5,8,2011-05-21,A concise guide for beginners and intermediate learners.
+室内设计：项目化教程,王珊,人民邮电出版社,9787647907510,Architecture,191.27,35,2019-06-14,适合入门学习与课程实验使用。
+背包旅行手册：进阶篇 752,郭晨,化学工业出版社,9787389807529,Travel,70.61,70,2015-09-18,内容系统，案例丰富，适合作为教材或参考书。
+Physical Geography Essentials,Andrew Tanenbaum,MIT Press,9780517407530,Geography,63.72,120,2006-08-24,A practical introduction with clear examples and exercises.
+应用语言学（第3版） 754,严蔚敏,中国轻工业出版社,9780980107548,Language,98.07,44,2019-07-22,结合真实案例，强调知识理解与实际操作。
+英语写作教程：理论与实践,林海峰,中华书局,9780727407559,English Learning,53.05,29,1996-11-05,结合真实案例，强调知识理解与实际操作。
+Modern Chinese Literature Essentials,Michael Brown,McGraw-Hill Education,9781623407568,Chinese Literature,122.07,67,1999-08-08,A concise guide for beginners and intermediate learners.
+儿童故事集：项目化教程 757,郭晨,译林出版社,9781452807577,Children,34.63,109,2009-04-15,围绕核心概念展开，配有练习与拓展阅读。
+机器人纪元：项目化教程,朱雅雯,译林出版社,9780213207588,Science Fiction,130.37,108,2007-09-15,结合真实案例，强调知识理解与实际操作。
+The Last Witness（第3版） 759,Nancy White,Routledge,9787505607590,Mystery,50.21,35,1999-06-17,A practical introduction with clear examples and exercises.
+艺术大师传：项目化教程,何嘉宁,电子工业出版社,9787139607607,Biography,127.21,75,2015-12-12,内容系统，案例丰富，适合作为教材或参考书。
+自律与成长（第2版） 761,张伟,科学出版社,9781154007619,Self-Help,118.24,67,2006-04-05,结合真实案例，强调知识理解与实际操作。
+Healthy Living,Thomas Moore,No Starch Press,9780795807626,Health,65.19,72,2012-09-18,A concise guide for beginners and intermediate learners.
+体育运动概论（第3版）,刘遄,人民邮电出版社,9780551607637,Sports,63.11,21,1999-11-30,结合真实案例，强调知识理解与实际操作。
+中式烹饪技巧：进阶篇,高云,浙江教育出版社,9787517807643,Cooking,87.46,48,2016-02-04,适合入门学习与课程实验使用。
+Environmental Science Workshop,Joshua Bloch,O'Reilly Media,9787350607653,Environment,111.48,105,2024-07-02,"Combines theory, examples, and review questions."
+Java程序设计 766,梁博文,人民文学出版社,9780630407660,Programming,150.84,119,2020-12-03,内容系统，案例丰富，适合作为教材或参考书。
+数据仓库技术：项目化教程 767,陈思远,北京大学出版社,9780238807671,Database,70.36,66,2012-06-15,内容系统，案例丰富，适合作为教材或参考书。
+Algorithms and Structures Workshop,Peter Norvig,Pearson Education,9781415407684,Computer Science,107.29,99,1999-09-25,A practical introduction with clear examples and exercises.
+路由与交换技术：基础篇 769,唐朔飞,法律出版社,9780183507695,Network,149.94,95,2002-10-22,适合大学生、教师及相关从业者阅读。
+进程与线程：进阶篇,梁博文,法律出版社,9780674607705,Operating System,80.94,22,2020-08-14,结构清晰，语言通俗，可用于自学和课堂教学。
+AI for Everyone Handbook,Jennifer Anderson,Random House,9780388207710,Artificial Intelligence,138.81,45,2005-01-21,A practical introduction with clear examples and exercises.
+数据可视化：进阶篇,周志华,中信出版社,9780578707723,Data Science,83.16,94,1998-10-12,兼顾理论深度与实际应用，适合项目实践参考。
+软件测试技术：项目化教程 773,黄静,高等教育出版社,9780433907732,Software Engineering,126.08,76,2019-11-02,内容系统，案例丰富，适合作为教材或参考书。
+Cybersecurity Fundamentals Essentials,Jennifer Anderson,McGraw-Hill Education,9780838307748,Cybersecurity,144.18,85,2021-05-13,Useful as a reference book for academic and project work.
+线性代数 775,郑文博,复旦大学出版社,9780337007750,Mathematics,40.18,88,2005-10-18,内容系统，案例丰富，适合作为教材或参考书。
+大学物理,李华,复旦大学出版社,9787392907766,Physics,82.19,107,2019-07-26,围绕核心概念展开，配有练习与拓展阅读。
+Organic Chemistry in Practice,Daniel Martin,Random House,9787627807779,Chemistry,124.64,100,2014-03-24,A practical introduction with clear examples and exercises.
+分子生物学：项目化教程,马天宇,浙江教育出版社,9780456907788,Biology,83.13,39,2005-01-19,适合入门学习与课程实验使用。
+公共卫生导论（第3版）,严蔚敏,商务印书馆,9781563207792,Medicine,127.54,85,2020-11-11,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+International Trade Workshop,Stuart Russell,No Starch Press,9781218607809,Economics,152.21,73,2021-06-05,Designed for classroom learning and self-study.
+项目管理实践：实践版 781,严蔚敏,中国人民大学出版社,9780300507812,Management,121.17,85,2022-04-02,适合入门学习与课程实验使用。
+金融学导论：案例教程,张海藩,人民邮电出版社,9787228307821,Finance,63.47,29,2012-02-22,兼顾理论深度与实际应用，适合项目实践参考。
+Digital Marketing：案例教程,Emily Johnson,Random House,9787723607839,Marketing,68.52,113,2023-09-08,Useful as a reference book for academic and project work.
+认知心理学：实践版,严蔚敏,作家出版社,9780727207845,Psychology,121.74,117,1998-04-20,适合大学生、教师及相关从业者阅读。
+班级管理：实践版 785,张海藩,清华大学出版社,9781948607858,Education,53.02,54,2019-01-09,结合真实案例，强调知识理解与实际操作。
+World History：案例教程 786,Peter Norvig,Pearson Education,9780865707863,History,137.98,18,2002-01-08,"Suitable for students, teachers, and general readers."
+伦理学基础：案例教程,周志华,中国人民大学出版社,9787766607872,Philosophy,84.69,14,1995-05-19,适合入门学习与课程实验使用。
+家庭社会学：基础篇,刘遄,化学工业出版社,9787365707881,Sociology,81.95,102,2012-08-28,围绕核心概念展开，配有练习与拓展阅读。
+Introduction to Law Essentials,Peter Norvig,Oxford University Press,9787206607899,Law,83.11,6,2018-07-13,Covers fundamental concepts and real-world applications.
+国际关系导论（第2版）,张海藩,法律出版社,9781322407906,Politics,43.8,61,2017-07-06,适合大学生、教师及相关从业者阅读。
+文学理论基础：项目化教程,张海藩,人民邮电出版社,9780471707912,Literature,102.49,23,2025-02-19,结构清晰，语言通俗，可用于自学和课堂教学。
+World Poetry：实践版,Emily Johnson,Packt Publishing,9781802107920,Poetry,72.52,110,2025-04-02,Useful as a reference book for academic and project work.
+博物馆艺术导览（第2版） 793,李华,人民邮电出版社,9787968107934,Art,149.26,90,2001-10-14,适合大学生、教师及相关从业者阅读。
+古典音乐导读：进阶篇 794,林海峰,机械工业出版社,9787504607942,Music,123.89,44,2015-02-23,内容系统，案例丰富，适合作为教材或参考书。
+Design Basics：进阶篇,Martin Fowler,McGraw-Hill Education,9781863507950,Design,80.72,6,2023-01-12,"Suitable for students, teachers, and general readers."
+建筑结构概论,郑文博,上海译文出版社,9780332807966,Architecture,115.91,47,2011-11-29,兼顾理论深度与实际应用，适合项目实践参考。
+中国自助游：从入门到精通,黄静,人民邮电出版社,9787426507979,Travel,71.09,93,2006-02-12,内容系统，案例丰富，适合作为教材或参考书。
+Geographic Information Systems in Practice,Peter Norvig,MIT Press,9787835307986,Geography,144.09,63,2019-12-19,Covers fundamental concepts and real-world applications.
+语言学概论,罗佳,上海译文出版社,9787956707993,Language,127.57,70,2005-11-26,兼顾理论深度与实际应用，适合项目实践参考。
+商务英语：进阶篇 800,朱雅雯,中华书局,9781255708002,English Learning,109.56,55,1995-08-05,结合真实案例，强调知识理解与实际操作。
+Lu Xun Studies：基础篇,Martin Fowler,CRC Press,9787389008018,Chinese Literature,150.2,17,2011-08-11,A concise guide for beginners and intermediate learners.
+童话故事（第3版） 802,梁博文,人民邮电出版社,9781777108021,Children,32.38,91,2018-10-03,内容系统，案例丰富，适合作为教材或参考书。
+机器人纪元,李华,浙江教育出版社,9780995408036,Science Fiction,98.79,36,1999-09-30,适合大学生、教师及相关从业者阅读。
+The Missing File：进阶篇,Craig Walls,Springer,9780721508047,Mystery,78.13,120,2004-01-27,"Suitable for students, teachers, and general readers."
+历史人物评传：基础篇,罗佳,浙江教育出版社,9787239408050,Biography,141.95,39,1998-03-18,适合大学生、教师及相关从业者阅读。
+时间管理（第2版）,赵明轩,复旦大学出版社,9781230808062,Self-Help,148.16,49,2007-01-07,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Nutrition Basics（第3版）,Emily Johnson,McGraw-Hill Education,9781978108073,Health,43.48,7,2005-11-29,A practical introduction with clear examples and exercises.
+游泳入门：理论与实践 808,李华,上海译文出版社,9787882108086,Sports,88.0,75,1999-05-15,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+中式烹饪技巧：进阶篇 809,梁博文,清华大学出版社,9780299808099,Cooking,41.52,24,2006-03-08,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Sustainable Development：实践版,Martin Fowler,Springer,9780107308100,Environment,82.34,29,2002-06-12,Covers fundamental concepts and real-world applications.
+Vue前端开发：理论与实践,朱雅雯,电子工业出版社,9781661108113,Programming,138.53,84,2003-11-27,适合大学生、教师及相关从业者阅读。
+Redis设计实践：进阶篇 812,李华,中华书局,9787357208129,Database,80.51,9,2020-09-16,适合大学生、教师及相关从业者阅读。
+Algorithms and Structures in Practice 813,Martin Fowler,MIT Press,9781894108133,Computer Science,142.13,115,1997-07-10,Designed for classroom learning and self-study.
+网络协议分析：进阶篇,林海峰,人民文学出版社,9787623008149,Network,98.49,44,2010-06-10,兼顾理论深度与实际应用，适合项目实践参考。
+内核设计基础：从入门到精通,严蔚敏,译林出版社,9787583008159,Operating System,56.2,30,2009-07-16,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Deep Learning Applications：进阶篇,Martin Fowler,Routledge,9781469008165,Artificial Intelligence,146.12,56,2011-05-25,Covers fundamental concepts and real-world applications.
+商业数据分析：基础篇,唐朔飞,清华大学出版社,9780803808171,Data Science,102.93,15,2008-08-03,结构清晰，语言通俗，可用于自学和课堂教学。
+敏捷开发方法：从入门到精通,唐朔飞,中国轻工业出版社,9787843808185,Software Engineering,39.28,104,2018-03-11,适合大学生、教师及相关从业者阅读。
+Information Security：基础篇,John Smith,Manning Publications,9781952108198,Cybersecurity,104.44,102,2017-01-10,"Combines theory, examples, and review questions."
+概率论与数理统计：基础篇,朱雅雯,机械工业出版社,9787956608207,Mathematics,134.85,12,2013-12-21,围绕核心概念展开，配有练习与拓展阅读。
+力学原理（第2版）,孙立新,高等教育出版社,9781722808211,Physics,116.05,10,2009-03-20,兼顾理论深度与实际应用，适合项目实践参考。
+Organic Chemistry（第3版）,Joshua Bloch,MIT Press,9781913208226,Chemistry,92.51,25,2013-03-10,Covers fundamental concepts and real-world applications.
+分子生物学（第3版） 823,谢希仁,科学出版社,9787597308238,Biology,62.5,109,2018-12-26,结构清晰，语言通俗，可用于自学和课堂教学。
+医学基础：项目化教程 824,张海藩,人民文学出版社,9787308008242,Medicine,122.68,89,2020-10-30,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Development Economics,Andrew Tanenbaum,Springer,9780122808258,Economics,95.37,112,2010-10-18,Provides structured explanations and practical case studies.
+战略管理,梁博文,法律出版社,9787310408269,Management,139.6,44,2014-03-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+投资学基础（第2版）,刘洋,电子工业出版社,9781794408272,Finance,145.43,94,1999-02-02,适合大学生、教师及相关从业者阅读。
+Brand Strategy 828,Emily Johnson,Random House,9787642708280,Marketing,75.83,114,2021-03-12,A concise guide for beginners and intermediate learners.
+社会心理学：案例教程,高云,浙江教育出版社,9780334708292,Psychology,122.58,66,2011-12-14,兼顾理论深度与实际应用，适合项目实践参考。
+教育学原理：项目化教程,谢希仁,高等教育出版社,9780282108304,Education,150.79,54,1995-08-08,内容系统，案例丰富，适合作为教材或参考书。
+Ancient Societies（第2版）,Robert Taylor,Routledge,9787621808314,History,49.57,36,2015-07-04,A concise guide for beginners and intermediate learners.
+西方哲学史：案例教程 832,马天宇,译林出版社,9787320208323,Philosophy,69.17,16,2024-04-23,结构清晰，语言通俗，可用于自学和课堂教学。
+城市社会学：从入门到精通,罗佳,上海译文出版社,9781526908339,Sociology,128.85,71,2016-06-17,结合真实案例，强调知识理解与实际操作。
+Civil Law（第2版） 834,Stuart Russell,HarperCollins,9780188308341,Law,101.44,104,1999-01-13,A concise guide for beginners and intermediate learners.
+政治学原理（第2版）,唐朔飞,科学出版社,9780378908351,Politics,139.65,63,2014-12-05,内容系统，案例丰富，适合作为教材或参考书。
+短篇小说选读：从入门到精通,周志华,科学出版社,9780704008366,Literature,95.19,31,2020-08-01,内容系统，案例丰富，适合作为教材或参考书。
+Selected Poems：进阶篇 837,Daniel Martin,Springer,9781453208373,Poetry,37.63,106,2019-08-29,Covers fundamental concepts and real-world applications.
+博物馆艺术导览：实践版 838,唐朔飞,法律出版社,9780692608388,Art,180.47,58,2019-01-13,适合入门学习与课程实验使用。
+西方音乐史,林海峰,中国人民大学出版社,9781328708397,Music,108.02,35,2007-10-25,结构清晰，语言通俗，可用于自学和课堂教学。
+Visual Communication：进阶篇,Ben Forta,Springer,9781826808407,Design,152.53,19,2021-10-10,Provides structured explanations and practical case studies.
+中外建筑史：理论与实践 841,朱雅雯,复旦大学出版社,9780937408414,Architecture,118.11,6,2015-05-10,内容系统，案例丰富，适合作为教材或参考书。
+城市漫步指南,李华,清华大学出版社,9781945408427,Travel,75.33,37,2025-08-18,适合大学生、教师及相关从业者阅读。
+Cartography,Daniel Martin,Wiley,9781815708435,Geography,41.09,73,2023-12-07,A practical introduction with clear examples and exercises.
+汉语写作：实践版 844,赵明轩,复旦大学出版社,9780641908446,Language,101.52,97,2009-01-03,兼顾理论深度与实际应用，适合项目实践参考。
+商务英语：基础篇,赵明轩,中国人民大学出版社,9781464408458,English Learning,129.37,59,2003-04-20,适合大学生、教师及相关从业者阅读。
+History of Chinese Fiction Essentials 846,Craig Walls,O'Reilly Media,9781880808467,Chinese Literature,113.43,90,2023-03-22,Designed for classroom learning and self-study.
+少儿百科全书：案例教程,刘遄,科学出版社,9780582308473,Children,81.54,113,2021-02-12,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+时间机器：实践版,胡志强,译林出版社,9781118608487,Science Fiction,66.35,96,2020-05-31,结构清晰，语言通俗，可用于自学和课堂教学。
+The Last Witness Handbook,Daniel Martin,Pearson Education,9781331308492,Mystery,93.06,89,1996-03-21,Useful as a reference book for academic and project work.
+名人传记：项目化教程,刘洋,人民文学出版社,9787250608507,Biography,108.15,58,2023-08-14,适合大学生、教师及相关从业者阅读。
+高效学习法（第3版）,刘洋,化学工业出版社,9787446908510,Self-Help,110.03,33,2008-12-27,结合真实案例，强调知识理解与实际操作。
+Nutrition Basics（第2版）,Emily Johnson,Oxford University Press,9780861508525,Health,53.17,24,2003-06-15,A concise guide for beginners and intermediate learners.
+篮球训练教程：实践版,朱雅雯,译林出版社,9787871808539,Sports,42.1,40,2015-05-18,结合真实案例，强调知识理解与实际操作。
+中式烹饪技巧,王珊,中国轻工业出版社,9780909808549,Cooking,43.0,114,2001-03-15,适合入门学习与课程实验使用。
+Environmental Science：案例教程,David Wilson,Cambridge University Press,9787653808559,Environment,133.92,77,2024-06-21,Provides structured explanations and practical case studies.
+C语言程序设计：基础篇,何嘉宁,浙江教育出版社,9780578608563,Programming,112.98,37,2023-07-08,兼顾理论深度与实际应用，适合项目实践参考。
+数据库系统原理（第3版）,高云,化学工业出版社,9781723108570,Database,138.62,83,2007-06-03,结合真实案例，强调知识理解与实际操作。
+Algorithms and Structures,Peter Norvig,O'Reilly Media,9780841908581,Computer Science,177.0,11,2020-09-22,Useful as a reference book for academic and project work.
+TCP/IP详解（第2版） 859,王晓明,浙江教育出版社,9780874108590,Network,151.33,78,2020-09-22,围绕核心概念展开，配有练习与拓展阅读。
+Linux系统管理,郑文博,中信出版社,9780854408603,Operating System,94.32,102,2017-03-07,内容系统，案例丰富，适合作为教材或参考书。
+Deep Learning Applications Workshop 861,Sarah Davis,Oxford University Press,9781615308613,Artificial Intelligence,179.49,89,2004-04-10,A concise guide for beginners and intermediate learners.
+商业数据分析：基础篇 862,郑文博,法律出版社,9781948008624,Data Science,127.7,102,2007-02-12,适合大学生、教师及相关从业者阅读。
+软件工程导论：进阶篇 863,吴雨桐,复旦大学出版社,9781139708630,Software Engineering,132.17,78,1998-09-26,适合入门学习与课程实验使用。
+Applied Cryptography：实践版,John Smith,No Starch Press,9781375108645,Cybersecurity,76.32,97,1996-02-01,Covers fundamental concepts and real-world applications.
+高等数学：案例教程,王晓明,清华大学出版社,9781430908654,Mathematics,91.56,26,2025-02-01,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+热学与统计物理 866,罗佳,中信出版社,9781621408666,Physics,158.52,110,2026-05-03,适合大学生、教师及相关从业者阅读。
+Materials Chemistry（第2版） 867,Ben Forta,CRC Press,9780559108679,Chemistry,81.67,1,2018-01-24,Designed for classroom learning and self-study.
+分子生物学：案例教程,谢希仁,人民文学出版社,9787302508687,Biology,69.95,75,2020-05-17,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+人体解剖学：案例教程 869,霍春阳,作家出版社,9781951308698,Medicine,96.03,51,2004-09-29,兼顾理论深度与实际应用，适合项目实践参考。
+Microeconomics：进阶篇,Martin Fowler,Pearson Education,9781317008705,Economics,131.62,9,2001-03-14,"Suitable for students, teachers, and general readers."
+项目管理实践（第3版）,梁博文,机械工业出版社,9780906608715,Management,96.3,28,2010-09-27,围绕核心概念展开，配有练习与拓展阅读。
+风险管理：理论与实践 872,高云,中国人民大学出版社,9781737508724,Finance,46.09,105,2014-10-16,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Advertising Planning（第2版）,Peter Norvig,Manning Publications,9781933408736,Marketing,66.09,39,2019-10-05,"Combines theory, examples, and review questions."
+认知心理学：项目化教程,霍春阳,上海译文出版社,9787823708740,Psychology,103.97,61,2022-08-11,结构清晰，语言通俗，可用于自学和课堂教学。
+现代教育技术（第2版）,陈思远,科学出版社,9781822608759,Education,75.39,36,2019-02-11,适合大学生、教师及相关从业者阅读。
+Modern China（第2版）,Ben Forta,Cambridge University Press,9787199108762,History,45.57,112,2011-06-03,Useful as a reference book for academic and project work.
+逻辑学教程：案例教程,王晓明,法律出版社,9781478108771,Philosophy,57.69,93,2006-02-01,内容系统，案例丰富，适合作为教材或参考书。
+文化社会学：进阶篇,郭晨,人民邮电出版社,9781377908786,Sociology,49.72,48,2021-03-07,围绕核心概念展开，配有练习与拓展阅读。
+Civil Law（第2版） 879,John Smith,CRC Press,9781273208799,Law,101.6,71,2019-11-08,A concise guide for beginners and intermediate learners.
+行政管理学,郑文博,浙江教育出版社,9787815808809,Politics,116.36,83,2011-11-27,结构清晰，语言通俗，可用于自学和课堂教学。
+文学理论基础：实践版,何嘉宁,中华书局,9781817708815,Literature,113.69,15,2004-05-26,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Classical Verse Workshop,Michael Brown,Pearson Education,9780792308829,Poetry,84.96,97,2004-11-29,Useful as a reference book for academic and project work.
+博物馆艺术导览：案例教程,何嘉宁,人民邮电出版社,9781328608833,Art,180.43,71,2011-10-21,适合入门学习与课程实验使用。
+乐理基础（第2版）,胡志强,中信出版社,9787409508849,Music,143.04,21,1997-10-26,结构清晰，语言通俗，可用于自学和课堂教学。
+User Experience Design Guide,Thomas Moore,Springer,9780534808853,Design,144.57,8,2001-07-30,"Suitable for students, teachers, and general readers."
+中外建筑史,罗佳,中国人民大学出版社,9781374608863,Architecture,146.2,25,2007-11-07,适合大学生、教师及相关从业者阅读。
+中国自助游：项目化教程 887,何嘉宁,电子工业出版社,9780170608879,Travel,63.17,11,2000-01-12,结构清晰，语言通俗，可用于自学和课堂教学。
+Regional Geography 888,Jennifer Anderson,HarperCollins,9787141208885,Geography,117.62,34,1999-11-27,Designed for classroom learning and self-study.
+跨文化交际（第2版）,朱雅雯,中国人民大学出版社,9781730308895,Language,126.98,45,2005-09-12,适合入门学习与课程实验使用。
+英语写作教程：理论与实践 890,赵明轩,科学出版社,9781767908907,English Learning,105.88,41,2013-08-25,内容系统，案例丰富，适合作为教材或参考书。
+Lu Xun Studies：实践版 891,Laura Miller,Penguin Books,9781819808919,Chinese Literature,145.79,9,2009-12-05,A concise guide for beginners and intermediate learners.
+儿童成长绘本：从入门到精通,张海藩,作家出版社,9780632908929,Children,87.29,3,2005-12-14,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+机器人纪元：案例教程,胡志强,高等教育出版社,9787198708932,Science Fiction,140.06,20,2002-04-02,兼顾理论深度与实际应用，适合项目实践参考。
+Castle Mystery（第3版）,Andrew Tanenbaum,Penguin Books,9787565808944,Mystery,36.63,107,2012-10-04,Useful as a reference book for academic and project work.
+名人传记（第2版）,梁博文,作家出版社,9787180808954,Biography,103.97,5,2009-11-20,围绕核心概念展开，配有练习与拓展阅读。
+沟通的艺术：实践版,李华,人民文学出版社,9780430208962,Self-Help,79.46,112,2016-09-16,适合入门学习与课程实验使用。
+Healthy Living Essentials,Robert C. Martin,Springer,9787526608972,Health,95.87,117,1996-10-07,"Combines theory, examples, and review questions."
+体育运动概论：实践版 898,吴雨桐,人民邮电出版社,9781836408987,Sports,59.44,64,2010-07-28,结构清晰，语言通俗，可用于自学和课堂教学。
+世界美食地图：实践版,刘洋,作家出版社,9780812408997,Cooking,51.98,39,1998-10-10,适合入门学习与课程实验使用。
+Ecological Protection Handbook,Thomas Moore,Penguin Books,9787279809008,Environment,143.62,42,2000-11-14,A practical introduction with clear examples and exercises.
+Web全栈开发（第3版） 901,霍春阳,人民邮电出版社,9780639709017,Programming,135.45,103,2026-01-13,围绕核心概念展开，配有练习与拓展阅读。
+Redis设计实践：基础篇,胡志强,商务印书馆,9781236409027,Database,100.79,85,2023-08-05,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Algorithms and Structures 903,Nancy White,Pearson Education,9780916609030,Computer Science,123.7,96,2025-03-15,A concise guide for beginners and intermediate learners.
+网络协议分析,陈思远,译林出版社,9780559009044,Network,115.11,112,2016-07-26,适合大学生、教师及相关从业者阅读。
+内核设计基础：实践版 905,李华,清华大学出版社,9780464309055,Operating System,89.59,60,2019-12-28,围绕核心概念展开，配有练习与拓展阅读。
+Deep Learning Applications：基础篇,Martin Fowler,Cambridge University Press,9780858209060,Artificial Intelligence,176.57,119,2004-12-19,"Suitable for students, teachers, and general readers."
+商业数据分析：项目化教程 907,陈思远,商务印书馆,9787905109076,Data Science,89.07,28,2016-05-24,结构清晰，语言通俗，可用于自学和课堂教学。
+需求分析实践：案例教程,黄静,中国轻工业出版社,9787436409089,Software Engineering,89.32,43,2023-05-05,内容系统，案例丰富，适合作为教材或参考书。
+Cybersecurity Fundamentals in Practice,David Wilson,Elsevier,9780237809096,Cybersecurity,44.37,101,2025-05-05,Provides structured explanations and practical case studies.
+高等数学,王珊,清华大学出版社,9780354209106,Mathematics,145.51,55,2015-07-12,结构清晰，语言通俗，可用于自学和课堂教学。
+力学原理（第3版）,高云,机械工业出版社,9787558609114,Physics,72.74,43,1999-04-01,兼顾理论深度与实际应用，适合项目实践参考。
+Chemistry Lab Manual,Eric Matthes,MIT Press,9781143409127,Chemistry,49.3,44,2007-08-24,A practical introduction with clear examples and exercises.
+普通生物学：实践版 913,陈思远,电子工业出版社,9780401909133,Biology,99.72,73,2020-06-17,兼顾理论深度与实际应用，适合项目实践参考。
+医学基础：实践版,陈思远,人民文学出版社,9780146309144,Medicine,150.94,46,1998-01-25,内容系统，案例丰富，适合作为教材或参考书。
+Development Economics（第3版） 915,Nancy White,No Starch Press,9780578309156,Economics,145.18,119,2016-05-08,Designed for classroom learning and self-study.
+人力资源管理：案例教程 916,陈思远,作家出版社,9780496409167,Management,53.13,34,2005-02-15,结合真实案例，强调知识理解与实际操作。
+公司理财：案例教程,刘遄,科学出版社,9781148409177,Finance,41.5,67,2015-10-10,围绕核心概念展开，配有练习与拓展阅读。
+Digital Marketing：进阶篇,Nancy White,CRC Press,9781869609184,Marketing,43.97,24,2018-02-25,A concise guide for beginners and intermediate learners.
+积极心理学：进阶篇 919,刘遄,科学出版社,9780150709190,Psychology,73.83,16,2019-11-30,适合大学生、教师及相关从业者阅读。
+班级管理,胡志强,高等教育出版社,9780469809208,Education,91.23,41,2007-10-28,兼顾理论深度与实际应用，适合项目实践参考。
+World History,Eric Matthes,MIT Press,9781334209215,History,36.69,112,1999-01-26,Useful as a reference book for academic and project work.
+中国哲学简史：案例教程,梁博文,中国轻工业出版社,9780519609222,Philosophy,80.4,3,1998-04-18,适合大学生、教师及相关从业者阅读。
+家庭社会学 923,高云,中信出版社,9787292809238,Sociology,119.29,78,2013-09-05,结合真实案例，强调知识理解与实际操作。
+Civil Law Workshop,Thomas Moore,Packt Publishing,9787262209242,Law,92.61,109,2017-02-27,Provides structured explanations and practical case studies.
+国际关系导论：案例教程,谢希仁,中国轻工业出版社,9781941609255,Politics,131.28,61,2012-02-22,结合真实案例，强调知识理解与实际操作。
+世界文学名著导读（第3版）,王珊,清华大学出版社,9781818909266,Literature,98.96,102,2010-10-12,适合大学生、教师及相关从业者阅读。
+Selected Poems：实践版,Peter Norvig,Packt Publishing,9787205709273,Poetry,69.53,2,2011-06-02,A concise guide for beginners and intermediate learners.
+艺术概论：项目化教程,周志华,上海译文出版社,9781912809288,Art,177.07,94,2003-03-31,适合大学生、教师及相关从业者阅读。
+西方音乐史 929,张伟,人民邮电出版社,9781706809296,Music,71.4,111,2015-06-06,结构清晰，语言通俗，可用于自学和课堂教学。
+Visual Communication Essentials,Sarah Davis,MIT Press,9780393709308,Design,42.49,18,2012-10-14,A concise guide for beginners and intermediate learners.
+城市规划导论：从入门到精通 931,刘洋,浙江教育出版社,9780722909317,Architecture,81.97,79,2015-07-14,结合真实案例，强调知识理解与实际操作。
+中国自助游（第2版） 932,严蔚敏,机械工业出版社,9781856309325,Travel,32.81,117,2017-09-16,适合大学生、教师及相关从业者阅读。
+Regional Geography Workshop,Jennifer Anderson,Elsevier,9787653709337,Geography,108.67,90,2017-08-08,Useful as a reference book for academic and project work.
+跨文化交际：案例教程 934,严蔚敏,清华大学出版社,9787230109345,Language,127.78,1,2002-08-02,结合真实案例，强调知识理解与实际操作。
+大学英语阅读：基础篇 935,梁博文,复旦大学出版社,9781498209359,English Learning,77.35,91,1999-09-02,结构清晰，语言通俗，可用于自学和课堂教学。
+Lu Xun Studies Guide,Emily Johnson,Elsevier,9780499809360,Chinese Literature,134.08,67,2008-03-12,Designed for classroom learning and self-study.
+儿童成长绘本：理论与实践,郭晨,北京大学出版社,9787306609373,Children,46.45,111,2008-02-15,适合大学生、教师及相关从业者阅读。
+银河边境：理论与实践,周志华,中国人民大学出版社,9780602709389,Science Fiction,108.13,61,2023-11-29,结构清晰，语言通俗，可用于自学和课堂教学。
+The Last Witness：实践版,Stuart Russell,Packt Publishing,9780751909395,Mystery,158.11,116,2006-01-02,"Combines theory, examples, and review questions."
+企业家成长史：实践版 940,孙立新,法律出版社,9780904409406,Biography,97.55,94,2024-08-03,兼顾理论深度与实际应用，适合项目实践参考。
+思维训练（第2版）,郑文博,中华书局,9781858109411,Self-Help,78.37,41,2020-05-19,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Nutrition Basics Workshop 942,Eric Matthes,McGraw-Hill Education,9787256009421,Health,158.63,58,2014-08-30,A practical introduction with clear examples and exercises.
+体育运动概论：案例教程,周志华,中国人民大学出版社,9787207009432,Sports,72.36,48,2018-11-08,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+营养早餐：实践版,李华,上海译文出版社,9781226809448,Cooking,48.81,108,2006-03-21,围绕核心概念展开，配有练习与拓展阅读。
+Climate Change 945,Craig Walls,CRC Press,9781517009458,Environment,44.6,22,2019-01-28,"Combines theory, examples, and review questions."
+Java程序设计：进阶篇,王晓明,人民文学出版社,9781481309462,Programming,101.87,40,1998-06-26,兼顾理论深度与实际应用，适合项目实践参考。
+数据仓库技术（第2版）,霍春阳,复旦大学出版社,9780465009473,Database,106.69,93,2008-07-22,适合入门学习与课程实验使用。
+Algorithms and Structures in Practice 948,Ben Forta,Packt Publishing,9781275209480,Computer Science,134.42,112,2021-08-28,A concise guide for beginners and intermediate learners.
+TCP/IP详解,霍春阳,作家出版社,9781552309490,Network,126.15,24,2025-07-03,适合大学生、教师及相关从业者阅读。
+内核设计基础：案例教程,张海藩,科学出版社,9780966609509,Operating System,95.38,117,1999-10-16,围绕核心概念展开，配有练习与拓展阅读。
+AI for Everyone Guide,Sarah Davis,McGraw-Hill Education,9780724809516,Artificial Intelligence,69.0,24,2015-08-21,Covers fundamental concepts and real-world applications.
+数据分析方法,梁博文,化学工业出版社,9787541809521,Data Science,49.17,82,1996-06-28,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+系统设计案例：进阶篇,孙立新,译林出版社,9787546609539,Software Engineering,141.99,48,2001-12-14,内容系统，案例丰富，适合作为教材或参考书。
+Applied Cryptography Essentials,Robert C. Martin,Elsevier,9780486409542,Cybersecurity,94.03,33,1999-03-04,A practical introduction with clear examples and exercises.
+概率论与数理统计：进阶篇,黄静,科学出版社,9781323809556,Mathematics,122.73,17,2019-10-12,内容系统，案例丰富，适合作为教材或参考书。
+力学原理：从入门到精通,周志华,科学出版社,9781960609564,Physics,41.93,85,1999-06-02,围绕核心概念展开，配有练习与拓展阅读。
+Materials Chemistry Workshop,Robert Taylor,No Starch Press,9780917109577,Chemistry,112.18,119,2013-02-11,Useful as a reference book for academic and project work.
+生态学基础：基础篇 958,孙立新,科学出版社,9781565809581,Biology,92.85,10,2016-11-11,适合大学生、教师及相关从业者阅读。
+护理学基础：基础篇 959,张海藩,浙江教育出版社,9787276109590,Medicine,76.86,98,2001-11-12,内容系统，案例丰富，适合作为教材或参考书。
+Development Economics in Practice 960,James Clark,Oxford University Press,9781252409605,Economics,138.13,93,2015-03-04,Designed for classroom learning and self-study.
+组织行为学（第2版） 961,霍春阳,清华大学出版社,9781624309618,Management,42.01,83,2025-01-08,适合大学生、教师及相关从业者阅读。
+公司理财,严蔚敏,人民文学出版社,9787847409623,Finance,35.58,78,1999-02-09,适合入门学习与课程实验使用。
+Digital Marketing Guide,Michael Brown,Routledge,9787709009633,Marketing,86.95,3,2023-05-22,Useful as a reference book for academic and project work.
+积极心理学：基础篇 964,郭晨,浙江教育出版社,9781492309642,Psychology,131.21,97,2013-07-25,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+教育学原理（第2版）,郭晨,科学出版社,9787318309650,Education,114.57,29,2016-12-12,兼顾理论深度与实际应用，适合项目实践参考。
+Ancient Societies 966,Peter Norvig,MIT Press,9781442309661,History,47.49,109,2005-03-24,Provides structured explanations and practical case studies.
+中国哲学简史：从入门到精通 967,孙立新,中华书局,9781241609672,Philosophy,135.57,68,1996-04-10,适合入门学习与课程实验使用。
+文化社会学（第2版）,周志华,人民文学出版社,9780676609684,Sociology,114.68,82,2010-11-30,结构清晰，语言通俗，可用于自学和课堂教学。
+Economic Law Guide,Craig Walls,Routledge,9780438809697,Law,81.19,59,2004-07-04,Designed for classroom learning and self-study.
+比较政治学：项目化教程 970,周子涵,中国人民大学出版社,9787739209706,Politics,104.46,50,2010-06-01,内容系统，案例丰富，适合作为教材或参考书。
+短篇小说选读,黄静,北京大学出版社,9781305709713,Literature,35.99,36,2021-03-31,适合入门学习与课程实验使用。
+Selected Poems（第3版） 972,Nancy White,O'Reilly Media,9780746309728,Poetry,86.9,28,1995-02-09,Useful as a reference book for academic and project work.
+艺术鉴赏 973,孙立新,浙江教育出版社,9787999409731,Art,85.05,15,2018-04-15,结合真实案例，强调知识理解与实际操作。
+中国民族音乐：进阶篇,霍春阳,中华书局,9781825809740,Music,62.71,91,1999-08-27,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Graphic Design Workshop,Robert C. Martin,Packt Publishing,9787396109753,Design,37.41,16,1999-11-23,A practical introduction with clear examples and exercises.
+室内设计：理论与实践,陈思远,高等教育出版社,9780659109767,Architecture,147.41,57,2025-07-15,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+中国自助游：基础篇,马天宇,浙江教育出版社,9787345109773,Travel,68.32,88,2015-09-28,兼顾理论深度与实际应用，适合项目实践参考。
+Geographic Information Systems（第2版） 978,Laura Miller,No Starch Press,9781139409780,Geography,104.9,87,2024-06-18,Covers fundamental concepts and real-world applications.
+现代汉语：进阶篇,郭晨,高等教育出版社,9787702709790,Language,147.63,116,2002-05-08,围绕核心概念展开，配有练习与拓展阅读。
+商务英语：项目化教程,张伟,机械工业出版社,9787181109807,English Learning,79.16,2,2015-01-20,兼顾理论深度与实际应用，适合项目实践参考。
+Lu Xun Studies Handbook,Daniel Martin,Springer,9781206109810,Chinese Literature,144.83,64,2023-04-15,"Combines theory, examples, and review questions."
+科学小实验 982,张海藩,科学出版社,9780995709829,Children,60.13,94,2000-04-30,结构清晰，语言通俗，可用于自学和课堂教学。
+星际远航：理论与实践 983,高云,中信出版社,9781333909833,Science Fiction,152.32,5,2007-09-03,适合大学生、教师及相关从业者阅读。
+The Missing File Handbook,Sarah Davis,McGraw-Hill Education,9787188409849,Mystery,74.63,22,2012-07-20,"Suitable for students, teachers, and general readers."
+历史人物评传：基础篇 985,周志华,中国轻工业出版社,9787210909859,Biography,139.27,79,1997-06-02,内容系统，案例丰富，适合作为教材或参考书。
+高效学习法：从入门到精通,王珊,中信出版社,9787714609866,Self-Help,77.75,93,2002-04-09,适合入门学习与课程实验使用。
+Mental Wellness Workshop,Cay Horstmann,Cambridge University Press,9780434109876,Health,66.37,18,2014-09-13,"Suitable for students, teachers, and general readers."
+足球战术分析,霍春阳,中国轻工业出版社,9780540909889,Sports,48.31,100,2009-03-30,结合真实案例，强调知识理解与实际操作。
+中式烹饪技巧 989,李华,北京大学出版社,9787880709896,Cooking,67.58,120,1998-01-31,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+Environmental Science：基础篇,Andrew Tanenbaum,Pearson Education,9781565809901,Environment,148.64,13,2015-10-27,Provides structured explanations and practical case studies.
+Java程序设计：实践版,胡志强,浙江教育出版社,9781617409912,Programming,43.38,51,1999-11-25,兼顾理论深度与实际应用，适合项目实践参考。
+数据仓库技术（第3版）,谢希仁,商务印书馆,9781142209926,Database,53.74,109,2008-05-01,内容系统，案例丰富，适合作为教材或参考书。
+Computer Architecture（第2版） 993,Peter Norvig,MIT Press,9780368109935,Computer Science,185.76,50,2001-04-23,"Suitable for students, teachers, and general readers."
+TCP/IP详解（第3版） 994,唐朔飞,电子工业出版社,9787752209943,Network,95.26,94,2001-10-10,覆盖基础理论与实践应用，便于读者循序渐进掌握。
+进程与线程（第3版） 995,高云,浙江教育出版社,9787532409952,Operating System,151.43,13,2001-11-19,结构清晰，语言通俗，可用于自学和课堂教学。
+Natural Language Processing：基础篇,Eric Matthes,Pearson Education,9787812609966,Artificial Intelligence,173.68,81,2025-12-06,Useful as a reference book for academic and project work.
+大数据技术基础：进阶篇,刘洋,北京大学出版社,9781749809970,Data Science,61.63,93,1997-12-27,内容系统，案例丰富，适合作为教材或参考书。
+系统设计案例：基础篇,吴雨桐,中华书局,9781171009986,Software Engineering,73.24,97,1999-02-15,内容系统，案例丰富，适合作为教材或参考书。
+Information Security：基础篇 999,Robert Taylor,Manning Publications,9781968809997,Cybersecurity,149.06,82,1997-01-26,A concise guide for beginners and intermediate learners.
+线性代数：实践版 1000,何嘉宁,化学工业出版社,9787277610002,Mathematics,38.35,94,2016-07-13,适合大学生、教师及相关从业者阅读。

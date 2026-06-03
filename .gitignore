@@ -1,0 +1,59 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Backend
+backend/target/
+backend/build/
+backend/.gradle/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.nuxt/
+frontend:build/
+frontend:generate/
+
+# Environment
+.env
+.env.local
+.env.*.local
+backend/src/main/resources/application-local.yml
+backend/src/main/resources/application-dev.yml
+backend/src/main/resources/*local*.yml
+backend/src/main/resources/*dev*.yml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Database
+*.sql
+!backend/src/main/resources/db/init.sql
+
+# Dependencies
+**/node_modules/
+**/bower_components/
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+backend/.mvn/
+backend/mvn-*
+
+# Tool-generated files
+.github/modernize/

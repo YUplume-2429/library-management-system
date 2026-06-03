@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: library-management-system
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: ${DB_URL:jdbc:mysql://localhost:3306/library_db?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  jackson:
+    default-property-inclusion: non_null
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+server:
+  port: 8080
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath*:/mapper/**/*.xml
+  type-aliases-package: com.library.entity
+
+logging:
+  level:
+    root: INFO
+    com.library: DEBUG
+    org.springframework.security: INFO
+
+jwt:
+  secret: ${JWT_SECRET:library-management-system-secret-key-must-be-long-and-complex-2024}
+  expiration: 86400000
+  refresh-expiration: 604800000
